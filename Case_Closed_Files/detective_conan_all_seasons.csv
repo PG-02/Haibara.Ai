@@ -1,0 +1,933 @@
+season,jap_num,int_num,title,release_date,wiki_link
+1,1,1,Roller Coaster Murder Case,08/01/96,https://www.detectiveconanworld.com/wiki/Roller Coaster Murder Case
+1,2,2,Company President's Daughter Kidnapping Case,15/01/96,https://www.detectiveconanworld.com/wiki/Company President's Daughter Kidnapping Case
+1,3,3,An Idol's Locked Room Murder Case,22/01/96,https://www.detectiveconanworld.com/wiki/An Idol's Locked Room Murder Case
+1,4,4,The Coded Map of the City Case,29/01/96,https://www.detectiveconanworld.com/wiki/The Coded Map of the City Case
+1,5,5,The Shinkansen's Bomb Case,05/02/96,https://www.detectiveconanworld.com/wiki/The Shinkansen's Bomb Case
+1,6,6,Valentine Murder Case,12/02/96,https://www.detectiveconanworld.com/wiki/Valentine Murder Case
+1,7,7,Once-A-Month Present Threat Case,19/02/96,https://www.detectiveconanworld.com/wiki/Once-A-Month Present Threat Case
+1,8,8,Art Museum Owner Murder Case,26/02/96,https://www.detectiveconanworld.com/wiki/Art Museum Owner Murder Case
+1,9,9,Tenkaichi Night Festival Murder Case,04/03/96,https://www.detectiveconanworld.com/wiki/Tenkaichi Night Festival Murder Case
+1,10,10,Pro Soccer Player Blackmail Case,11/03/96,https://www.detectiveconanworld.com/wiki/Pro Soccer Player Blackmail Case
+1,11,11-12,Moonlight Sonata Murder Case (1 Hour Special),08/04/96,https://www.detectiveconanworld.com/wiki/Moonlight Sonata Murder Case (1 Hour Special)
+1,12,13,Ayumi-chan Kidnapping Case,15/04/96,https://www.detectiveconanworld.com/wiki/Ayumi-chan Kidnapping Case
+1,13,14,The Strange Person Hunt Murder Case,22/04/96,https://www.detectiveconanworld.com/wiki/The Strange Person Hunt Murder Case
+1,14,15,The Mysterious Shooting Message Case,29/04/96,https://www.detectiveconanworld.com/wiki/The Mysterious Shooting Message Case
+1,15,16,Missing Corpse Murder Case,13/05/96,https://www.detectiveconanworld.com/wiki/Missing Corpse Murder Case
+1,16,17,The Antique Collector Murder Case,20/05/96,https://www.detectiveconanworld.com/wiki/The Antique Collector Murder Case
+1,17,18,Hijacked Department Store Case,27/05/96,https://www.detectiveconanworld.com/wiki/Hijacked Department Store Case
+1,18,19,A June Bride Murder Case,03/06/96,https://www.detectiveconanworld.com/wiki/A June Bride Murder Case
+1,19,20,An Elevator Murder Case,10/06/96,https://www.detectiveconanworld.com/wiki/An Elevator Murder Case
+1,20,21,A Haunted Mansion Murder Case,17/06/96,https://www.detectiveconanworld.com/wiki/A Haunted Mansion Murder Case
+1,21,22,"On Location, TV Drama Murder Case",24/06/96,"https://www.detectiveconanworld.com/wiki/On Location, TV Drama Murder Case"
+1,22,23,Luxury Liner Serial Murder Case (Part 1),01/07/96,https://www.detectiveconanworld.com/wiki/Luxury Liner Serial Murder Case
+1,23,24,Luxury Liner Serial Murder Case (Part 2),08/07/96,https://www.detectiveconanworld.com/wiki/Luxury Liner Serial Murder Case
+1,24,25,The Mysterious Woman With Amnesia Case,15/07/96,https://www.detectiveconanworld.com/wiki/The Mysterious Woman With Amnesia Case
+1,25,26,The False Kidnapping and Hostage Case,22/07/96,https://www.detectiveconanworld.com/wiki/The False Kidnapping and Hostage Case
+1,26,27,Pet Dog John Murder Case,29/07/96,https://www.detectiveconanworld.com/wiki/Pet Dog John Murder Case
+1,27,28,Kogoro's Class Reunion Murder Case (Part 1),05/08/96,https://www.detectiveconanworld.com/wiki/Kogoro's Class Reunion Murder Case
+1,28,29,Kogoro's Class Reunion Murder Case (Part 2),12/08/96,https://www.detectiveconanworld.com/wiki/Kogoro's Class Reunion Murder Case
+2,29,30,Computer Murder Case,19/08/96,https://www.detectiveconanworld.com/wiki/Computer Murder Case
+2,30,31,Alibi Testimony Murder Case,26/08/96,https://www.detectiveconanworld.com/wiki/Alibi Testimony Murder Case
+2,31,32,TV Station Murder Case,02/09/96,https://www.detectiveconanworld.com/wiki/TV Station Murder Case
+2,32,33,Coffee Shop Murder Case,09/09/96,https://www.detectiveconanworld.com/wiki/Coffee Shop Murder Case
+2,33,34,Detective Boys Survival Case,14/10/96,https://www.detectiveconanworld.com/wiki/Detective Boys Survival Case
+2,34,35,Mountain Villa Bandaged Man Murder Case (Part 1),21/10/96,https://www.detectiveconanworld.com/wiki/Mountain Villa Bandaged Man Murder Case
+2,35,36,Mountain Villa Bandaged Man Murder Case (Part 2),28/10/96,https://www.detectiveconanworld.com/wiki/Mountain Villa Bandaged Man Murder Case
+2,36,37,Monday Night 7:30 p.m. Murder Case,04/11/96,https://www.detectiveconanworld.com/wiki/Monday Night 7:30 p.m. Murder Case
+2,37,38,Cactus's Flower Murder Case,11/11/96,https://www.detectiveconanworld.com/wiki/Cactus's Flower Murder Case
+2,38,39,Akaoni Village Fire Festival Murder Case,18/11/96,https://www.detectiveconanworld.com/wiki/Akaoni Village Fire Festival Murder Case
+2,39,40,Wealthy Daughter Murder Case (Part 1),25/11/96,https://www.detectiveconanworld.com/wiki/Wealthy Daughter Murder Case
+2,40,41,Wealthy Daughter Murder Case (Part 2),02/12/96,https://www.detectiveconanworld.com/wiki/Wealthy Daughter Murder Case
+2,41,42,Victory Flag Tearing Case,09/12/96,https://www.detectiveconanworld.com/wiki/Victory Flag Tearing Case
+2,42,43,Karaoke Box Murder Case,16/12/96,https://www.detectiveconanworld.com/wiki/Karaoke Box Murder Case
+2,43,44,Conan Edogawa Kidnapping Case,13/01/97,https://www.detectiveconanworld.com/wiki/Conan Edogawa Kidnapping Case
+2,44,45,Three Hotta Siblings Murder Case,20/01/97,https://www.detectiveconanworld.com/wiki/Three Hotta Siblings Murder Case
+2,45,46,Facial Mask Murder Case,27/01/97,https://www.detectiveconanworld.com/wiki/Facial Mask Murder Case
+2,46,47,Alpine Hut in the Snowy Mountain Murder Case,03/02/97,https://www.detectiveconanworld.com/wiki/Alpine Hut in the Snowy Mountain Murder Case
+2,47,48,Sports Club Murder Case,10/02/97,https://www.detectiveconanworld.com/wiki/Sports Club Murder Case
+2,48,49,Diplomat Murder Case (Part 1),17/02/97,https://www.detectiveconanworld.com/wiki/Diplomat Murder Case
+2,49,50,Diplomat Murder Case (Part 2),24/02/97,https://www.detectiveconanworld.com/wiki/Diplomat Murder Case
+2,50,51,Library Murder Case,03/03/97,https://www.detectiveconanworld.com/wiki/Library Murder Case
+2,51,52,The Golf Driving Range Murder Case,10/03/97,https://www.detectiveconanworld.com/wiki/The Golf Driving Range Murder Case
+2,52,53-54,The Mist Goblin Legend Murder Case (1 Hour Special),17/03/97,https://www.detectiveconanworld.com/wiki/The Mist Goblin Legend Murder Case (1 Hour Special)
+2,53,55,The Mystery Weapon Murder Case,07/04/97,https://www.detectiveconanworld.com/wiki/The Mystery Weapon Murder Case
+2,54,56,Game Company Murder Case,14/04/97,https://www.detectiveconanworld.com/wiki/Game Company Murder Case
+3,55,57,The Train Trick Murder Case,21/04/97,https://www.detectiveconanworld.com/wiki/The Train Trick Murder Case
+3,56,58,The Ojamanbou Murder Case,28/04/97,https://www.detectiveconanworld.com/wiki/The Ojamanbou Murder Case
+3,57,59,Holmes Freak Murder Case (Part 1),05/05/97,https://www.detectiveconanworld.com/wiki/Holmes Freak Murder Case
+3,58,60,Holmes Freak Murder Case (Part 2),12/05/97,https://www.detectiveconanworld.com/wiki/Holmes Freak Murder Case
+3,59,61,The First Errand Murder Case,19/05/97,https://www.detectiveconanworld.com/wiki/The First Errand Murder Case
+3,60,62,An Illustrator Murder Case,26/05/97,https://www.detectiveconanworld.com/wiki/An Illustrator Murder Case
+3,61,63,A Ghost Ship Murder Case (Part 1),02/06/97,https://www.detectiveconanworld.com/wiki/A Ghost Ship Murder Case
+3,62,64,A Ghost Ship Murder Case (Part 2),09/06/97,https://www.detectiveconanworld.com/wiki/A Ghost Ship Murder Case
+3,63,65,Big Monster Gomera Murder Case,16/06/97,https://www.detectiveconanworld.com/wiki/Big Monster Gomera Murder Case
+3,64,66,The Third Fingerprint Murder Case,23/06/97,https://www.detectiveconanworld.com/wiki/The Third Fingerprint Murder Case
+3,65,67,A Crab and Whale Kidnapping Case,30/06/97,https://www.detectiveconanworld.com/wiki/A Crab and Whale Kidnapping Case
+3,66,68,Night Road Murder Case,07/07/97,https://www.detectiveconanworld.com/wiki/Night Road Murder Case
+3,67,69,Stage Actress Murder Case,14/07/97,https://www.detectiveconanworld.com/wiki/Stage Actress Murder Case
+3,68,70,Night Baron Murder Case (The Case),21/07/97,https://www.detectiveconanworld.com/wiki/Night Baron Murder Case (The Case)
+3,69,71,Night Baron Murder Case (The Suspicion),28/07/97,https://www.detectiveconanworld.com/wiki/Night Baron Murder Case (The Suspicion)
+3,70,72,Night Baron Murder Case (The Resolution),04/08/97,https://www.detectiveconanworld.com/wiki/Night Baron Murder Case (The Resolution)
+3,71,73,A Stalker's Murder Case,11/08/97,https://www.detectiveconanworld.com/wiki/A Stalker's Murder Case
+3,72,74,The Triplet's Country Home Murder Case,18/08/97,https://www.detectiveconanworld.com/wiki/The Triplet's Country Home Murder Case
+3,73,75,The Detective Boys' Disaster Case,25/08/97,https://www.detectiveconanworld.com/wiki/The Detective Boys' Disaster Case
+3,74,76,The Death God Jinnai Murder Case,01/09/97,https://www.detectiveconanworld.com/wiki/The Death God Jinnai Murder Case
+3,75,77,Loan Company President's Murder Case,08/09/97,https://www.detectiveconanworld.com/wiki/Loan Company President's Murder Case
+3,76,78-79,Conan vs. Kaitou Kid (1 Hour Special),22/09/97,https://www.detectiveconanworld.com/wiki/Conan vs. Kaitou Kid (1 Hour Special)
+3,77,80,Distinguished Family's Consecutive Accidental Death Case (Part 1),20/10/97,https://www.detectiveconanworld.com/wiki/Distinguished Family's Consecutive Accidental Death Case
+3,78,81,Distinguished Family's Consecutive Accidental Death Case (Part 2),27/10/97,https://www.detectiveconanworld.com/wiki/Distinguished Family's Consecutive Accidental Death Case
+3,79,82,The Bank Heist Murder Case,03/11/97,https://www.detectiveconanworld.com/wiki/The Bank Heist Murder Case
+3,80,83,The Wandering Artist Murder Case,10/11/97,https://www.detectiveconanworld.com/wiki/The Wandering Artist Murder Case
+3,81,84,The Kidnapping of a Popular Artist Case (Part 1),17/11/97,https://www.detectiveconanworld.com/wiki/The Kidnapping of a Popular Artist Case
+3,82,85,The Kidnapping of a Popular Artist Case (Part 2),24/11/97,https://www.detectiveconanworld.com/wiki/The Kidnapping of a Popular Artist Case
+4,83,86,General Hospital Murder Case,01/12/97,https://www.detectiveconanworld.com/wiki/General Hospital Murder Case
+4,84,87,Ski Lodge Murder Case (Part 1),08/12/97,https://www.detectiveconanworld.com/wiki/Ski Lodge Murder Case
+4,85,88,Ski Lodge Murder Case (Part 2),15/12/97,https://www.detectiveconanworld.com/wiki/Ski Lodge Murder Case
+4,86,89,The Kidnapping Location Case,12/01/98,https://www.detectiveconanworld.com/wiki/The Kidnapping Location Case
+4,87,90,The Crane's Return of a Favor Murder Case,19/01/98,https://www.detectiveconanworld.com/wiki/The Crane's Return of a Favor Murder Case
+4,88,91,Dracula's Villa Murder Case (Part 1),26/01/98,https://www.detectiveconanworld.com/wiki/Dracula's Villa Murder Case
+4,89,92,Dracula's Villa Murder Case (Part 2),02/02/98,https://www.detectiveconanworld.com/wiki/Dracula's Villa Murder Case
+4,90,93,The Flower Scent Murder Case,09/02/98,https://www.detectiveconanworld.com/wiki/The Flower Scent Murder Case
+4,91,94,The Bank Robber's Hospitalization Case,16/02/98,https://www.detectiveconanworld.com/wiki/The Bank Robber's Hospitalization Case
+4,92,95,The Fearful Traversing Murder Case (Part 1),23/02/98,https://www.detectiveconanworld.com/wiki/The Fearful Traversing Murder Case
+4,93,96,The Fearful Traversing Murder Case (Part 2),02/03/98,https://www.detectiveconanworld.com/wiki/The Fearful Traversing Murder Case
+4,94,97,Snow Woman's Legend Murder Case,09/03/98,https://www.detectiveconanworld.com/wiki/Snow Woman's Legend Murder Case
+4,95,98,Kogoro's Date Murder Case,16/03/98,https://www.detectiveconanworld.com/wiki/Kogoro's Date Murder Case
+4,96,99-102,The Cornered Famous Detective! Two Big Murder Cases (2 Hour Special),23/03/98,https://www.detectiveconanworld.com/wiki/The Cornered Famous Detective! Two Big Murder Cases (2 Hour Special)
+4,97,103,The Farewell Wine Murder Case,13/04/98,https://www.detectiveconanworld.com/wiki/The Farewell Wine Murder Case
+4,98,104,The Famous Potter Murder Case (Part 1),20/04/98,https://www.detectiveconanworld.com/wiki/The Famous Potter Murder Case
+4,99,105,The Famous Potter Murder Case (Part 2),27/04/98,https://www.detectiveconanworld.com/wiki/The Famous Potter Murder Case
+4,100,106,The Memories of First Love Case (Part 1),11/05/98,https://www.detectiveconanworld.com/wiki/The Memories of First Love Case
+4,101,107,The Memories of First Love Case (Part 2),18/05/98,https://www.detectiveconanworld.com/wiki/The Memories of First Love Case
+4,102,108,The Historical Actor Murder Case (Part 1),25/05/98,https://www.detectiveconanworld.com/wiki/The Historical Actor Murder Case
+4,103,109,The Historical Actor Murder Case (Part 2),01/06/98,https://www.detectiveconanworld.com/wiki/The Historical Actor Murder Case
+4,104,110,The Mysterious Mansion of a Band of Thieves Case (Part 1),08/06/98,https://www.detectiveconanworld.com/wiki/The Mysterious Mansion of a Band of Thieves Case
+4,105,111,The Mysterious Mansion of a Band of Thieves Case (Part 2),15/06/98,https://www.detectiveconanworld.com/wiki/The Mysterious Mansion of a Band of Thieves Case
+4,106,112,Scoop Picture Murder Case,22/06/98,https://www.detectiveconanworld.com/wiki/Scoop Picture Murder Case
+5,107,113,The Mysterious Mole Alien Case (Part 1),29/06/98,https://www.detectiveconanworld.com/wiki/The Mysterious Mole Alien Case
+5,108,114,The Mysterious Mole Alien Case (Part 2),06/07/98,https://www.detectiveconanworld.com/wiki/The Mysterious Mole Alien Case
+5,109,115,Detective Club Pursuit Case,13/07/98,https://www.detectiveconanworld.com/wiki/Detective Club Pursuit Case
+5,110,116,Cooking Classroom Murder Case (Part 1),27/07/98,https://www.detectiveconanworld.com/wiki/Cooking Classroom Murder Case
+5,111,117,Cooking Classroom Murder Case (Part 2),03/08/98,https://www.detectiveconanworld.com/wiki/Cooking Classroom Murder Case
+5,112,118,The Seven Mysteries of Teitan Elementary School Case,10/08/98,https://www.detectiveconanworld.com/wiki/The Seven Mysteries of Teitan Elementary School Case
+5,113,119,The White Sandy Beach Murder Case,17/08/98,https://www.detectiveconanworld.com/wiki/The White Sandy Beach Murder Case
+5,114,120,Scuba Diving Murder Case (Part 1),24/08/98,https://www.detectiveconanworld.com/wiki/Scuba Diving Murder Case
+5,115,121,Scuba Diving Murder Case (Part 2),31/08/98,https://www.detectiveconanworld.com/wiki/Scuba Diving Murder Case
+5,116,122,The Mystery Writer Disappearance Case (Part 1),07/09/98,https://www.detectiveconanworld.com/wiki/The Mystery Writer Disappearance Case
+5,117,123,The Mystery Writer Disappearance Case (Part 2),14/09/98,https://www.detectiveconanworld.com/wiki/The Mystery Writer Disappearance Case
+5,118,124-125,The Naniwa Serial Murder Case (1 Hour Special),21/09/98,https://www.detectiveconanworld.com/wiki/The Naniwa Serial Murder Case (1 Hour Special)
+5,119,126,The Kamen Yaiba Murder Case,12/10/98,https://www.detectiveconanworld.com/wiki/The Kamen Yaiba Murder Case
+5,120,127,A Honey Cocktail Murder Case,19/10/98,https://www.detectiveconanworld.com/wiki/A Honey Cocktail Murder Case
+5,121,128,The Locked Bathroom Murder Case (Part 1),26/10/98,https://www.detectiveconanworld.com/wiki/The Locked Bathroom Murder Case
+5,122,129,The Locked Bathroom Murder Case (Part 2),02/11/98,https://www.detectiveconanworld.com/wiki/The Locked Bathroom Murder Case
+5,123,130,The Weather Girl Kidnapping Case,09/11/98,https://www.detectiveconanworld.com/wiki/The Weather Girl Kidnapping Case
+5,124,131,A Mysterious Sniper Murder Case (Part 1),16/11/98,https://www.detectiveconanworld.com/wiki/A Mysterious Sniper Murder Case
+5,125,132,A Mysterious Sniper Murder Case (Part 2),23/11/98,https://www.detectiveconanworld.com/wiki/A Mysterious Sniper Murder Case
+5,126,133,The Traveling Drama Troupe Murder Case (Part 1),30/11/98,https://www.detectiveconanworld.com/wiki/The Traveling Drama Troupe Murder Case
+5,127,134,The Traveling Drama Troupe Murder Case (Part 2),07/12/98,https://www.detectiveconanworld.com/wiki/The Traveling Drama Troupe Murder Case
+5,128,135,The Black Organization: One Billion Yen Robbery Case,14/12/98,https://www.detectiveconanworld.com/wiki/The Black Organization: One Billion Yen Robbery Case
+5,129,136-139,The Girl from the Black Organization and the University Professor Murder Case (2 Hour Special),04/01/99,https://www.detectiveconanworld.com/wiki/The Girl from the Black Organization and the University Professor Murder Case (2 Hour Special)
+5,130,140,The Indiscriminate Stadium Threatening Case (Part 1),11/01/99,https://www.detectiveconanworld.com/wiki/The Indiscriminate Stadium Threatening Case
+5,131,141,The Indiscriminate Stadium Threatening Case (Part 2),18/01/99,https://www.detectiveconanworld.com/wiki/The Indiscriminate Stadium Threatening Case
+5,132,142,Magic Lover's Murder Case (The Case),25/01/99,https://www.detectiveconanworld.com/wiki/Magic Lover's Murder Case (The Case)
+5,133,143,Magic Lover's Murder Case (The Suspicion),01/02/99,https://www.detectiveconanworld.com/wiki/Magic Lover's Murder Case (The Suspicion)
+5,134,144,Magic Lover's Murder Case (The Resolution),08/02/99,https://www.detectiveconanworld.com/wiki/Magic Lover's Murder Case (The Resolution)
+6,135,145,The Disappearing Weapon Search Case,15/02/99,https://www.detectiveconanworld.com/wiki/The Disappearing Weapon Search Case
+6,136,146,The Old Blue Castle Investigation Case (Part 1),22/02/99,https://www.detectiveconanworld.com/wiki/The Old Blue Castle Investigation Case
+6,137,147,The Old Blue Castle Investigation Case (Part 2),01/03/99,https://www.detectiveconanworld.com/wiki/The Old Blue Castle Investigation Case
+6,138,148,The Final Screening Murder Case (Part 1),08/03/99,https://www.detectiveconanworld.com/wiki/The Final Screening Murder Case
+6,139,149,The Final Screening Murder Case (Part 2),15/03/99,https://www.detectiveconanworld.com/wiki/The Final Screening Murder Case
+6,140,150,SOS! Messages from Ayumi,12/04/99,https://www.detectiveconanworld.com/wiki/SOS! Messages from Ayumi
+6,141,151,The Night Before the Wedding Locked Room Case (Part 1),19/04/99,https://www.detectiveconanworld.com/wiki/The Night Before the Wedding Locked Room Case
+6,142,152,The Night Before the Wedding Locked Room Case (Part 2),26/04/99,https://www.detectiveconanworld.com/wiki/The Night Before the Wedding Locked Room Case
+6,143,153,The Suspicious Astronomical Observation,03/05/99,https://www.detectiveconanworld.com/wiki/The Suspicious Astronomical Observation
+6,144,154,The North Star No.3 Express Leaving Ueno (Part 1),10/05/99,https://www.detectiveconanworld.com/wiki/The North Star No.3 Express Leaving Ueno
+6,145,155,The North Star No.3 Express Leaving Ueno (Part 2),17/05/99,https://www.detectiveconanworld.com/wiki/The North Star No.3 Express Leaving Ueno
+6,146,156,Metropolitan Police Detective Love Story (Part 1),24/05/99,https://www.detectiveconanworld.com/wiki/Metropolitan Police Detective Love Story
+6,147,157,Metropolitan Police Detective Love Story (Part 2),31/05/99,https://www.detectiveconanworld.com/wiki/Metropolitan Police Detective Love Story
+6,148,158,The Streetcar's Sudden Stopping Case,07/06/99,https://www.detectiveconanworld.com/wiki/The Streetcar's Sudden Stopping Case
+6,149,159,The Amusement Park Bungee Jumping Case,21/06/99,https://www.detectiveconanworld.com/wiki/The Amusement Park Bungee Jumping Case
+6,150,160,The Truth Behind the Car Explosion Case (Part 1),28/06/99,https://www.detectiveconanworld.com/wiki/The Truth Behind the Car Explosion Case
+6,151,161,The Truth Behind the Car Explosion Case (Part 2),05/07/99,https://www.detectiveconanworld.com/wiki/The Truth Behind the Car Explosion Case
+6,152,162,The Mysterious Old Man Disappearance Case,12/07/99,https://www.detectiveconanworld.com/wiki/The Mysterious Old Man Disappearance Case
+6,153,163,Sonoko's Dangerous Summer Story (Part 1),19/07/99,https://www.detectiveconanworld.com/wiki/Sonoko's Dangerous Summer Story
+6,154,164,Sonoko's Dangerous Summer Story (Part 2),26/07/99,https://www.detectiveconanworld.com/wiki/Sonoko's Dangerous Summer Story
+6,155,165,Underwater Key in the Locked Room Case,02/08/99,https://www.detectiveconanworld.com/wiki/Underwater Key in the Locked Room Case
+6,156,166,Metropolitan Police Detective Love Story 2 (Part 1),09/08/99,https://www.detectiveconanworld.com/wiki/Metropolitan Police Detective Love Story 2
+6,157,167,Metropolitan Police Detective Love Story 2 (Part 2),16/08/99,https://www.detectiveconanworld.com/wiki/Metropolitan Police Detective Love Story 2
+6,158,168,The Silent Loop Line,23/08/99,https://www.detectiveconanworld.com/wiki/The Silent Loop Line
+6,159,169,The Legend of the Mysterious Five Storied Pagoda (Part 1),06/09/99,https://www.detectiveconanworld.com/wiki/The Legend of the Mysterious Five Storied Pagoda
+6,160,170,The Legend of the Mysterious Five Storied Pagoda (Part 2),13/09/99,https://www.detectiveconanworld.com/wiki/The Legend of the Mysterious Five Storied Pagoda
+6,161,171,The Murder Floating in the Water Stream Restaurant,20/09/99,https://www.detectiveconanworld.com/wiki/The Murder Floating in the Water Stream Restaurant
+6,162,172-173,The Locked Room in the Sky: Shinichi Kudo's First Case (1 Hour Special),27/09/99,https://www.detectiveconanworld.com/wiki/The Locked Room in the Sky: Shinichi Kudo's First Case (1 Hour Special)
+7,163,174,"The Secret of the Moon, the Star, and the Sun (Part 1)",11/10/99,"https://www.detectiveconanworld.com/wiki/The Secret of the Moon, the Star, and the Sun"
+7,164,175,"The Secret of the Moon, the Star, and the Sun (Part 2)",18/10/99,"https://www.detectiveconanworld.com/wiki/The Secret of the Moon, the Star, and the Sun"
+7,165,176,The Disappearing Detective Boys Case,25/10/99,https://www.detectiveconanworld.com/wiki/The Disappearing Detective Boys Case
+7,166,177,Tottori Spider Mansion Demon (The Case),01/11/99,https://www.detectiveconanworld.com/wiki/Tottori Spider Mansion Demon (The Case)
+7,167,178,Tottori Spider Mansion Demon (The Suspicion),08/11/99,https://www.detectiveconanworld.com/wiki/Tottori Spider Mansion Demon (The Suspicion)
+7,168,179,Tottori Spider Mansion Demon (The Resolution),15/11/99,https://www.detectiveconanworld.com/wiki/Tottori Spider Mansion Demon (The Resolution)
+7,169,180,Venus' Kiss,22/11/99,https://www.detectiveconanworld.com/wiki/Venus' Kiss
+7,170,181,The Blind Spot in the Darkness (Part 1),29/11/99,https://www.detectiveconanworld.com/wiki/The Blind Spot in the Darkness
+7,171,182,The Blind Spot in the Darkness (Part 2),06/12/99,https://www.detectiveconanworld.com/wiki/The Blind Spot in the Darkness
+7,172,183,The Revival of the Dying Message (Part 1),13/12/99,https://www.detectiveconanworld.com/wiki/The Revival of the Dying Message
+7,173,184,The Revival of the Dying Message (Part 2),20/12/99,https://www.detectiveconanworld.com/wiki/The Revival of the Dying Message
+7,174,185-188,The Twenty Year Old Murderous Intent: The Symphony Serial Murder Case (2 Hour Special),03/01/00,https://www.detectiveconanworld.com/wiki/The Twenty Year Old Murderous Intent: The Symphony Serial Murder Case (2 Hour Special)
+7,175,189,The Man Who Was Killed Four Times,10/01/00,https://www.detectiveconanworld.com/wiki/The Man Who Was Killed Four Times
+7,176,190,Reunion with the Black Organization (Haibara),17/01/00,https://www.detectiveconanworld.com/wiki/Reunion with the Black Organization (Haibara)
+7,177,191,Reunion with the Black Organization (Conan),24/01/00,https://www.detectiveconanworld.com/wiki/Reunion with the Black Organization (Conan)
+7,178,192,Reunion with the Black Organization (The Resolution),31/01/00,https://www.detectiveconanworld.com/wiki/Reunion with the Black Organization (The Resolution)
+7,179,193,The Coffee Shop Truck's Wild Entrance Case,07/02/00,https://www.detectiveconanworld.com/wiki/The Coffee Shop Truck's Wild Entrance Case
+7,180,194,The Nocturne of Red Murderous Intent (Part 1),14/02/00,https://www.detectiveconanworld.com/wiki/The Nocturne of Red Murderous Intent
+7,181,195,The Nocturne of Red Murderous Intent (Part 2),21/02/00,https://www.detectiveconanworld.com/wiki/The Nocturne of Red Murderous Intent
+7,182,196,The Big Investigation of the Nine Doors,28/02/00,https://www.detectiveconanworld.com/wiki/The Big Investigation of the Nine Doors
+7,183,197,A Dangerous Recipe,06/03/00,https://www.detectiveconanworld.com/wiki/A Dangerous Recipe
+7,184,198-199,A Cursed Mask Coldly Laughs (1 Hour Special),13/03/00,https://www.detectiveconanworld.com/wiki/A Cursed Mask Coldly Laughs (1 Hour Special)
+7,185,200,The Murdered Famous Detective (Part 1),10/04/00,https://www.detectiveconanworld.com/wiki/The Murdered Famous Detective
+7,186,201,The Murdered Famous Detective (Part 2),17/04/00,https://www.detectiveconanworld.com/wiki/The Murdered Famous Detective
+7,187,202,The Unknown Gunshot That Rings in the Dark,24/04/00,https://www.detectiveconanworld.com/wiki/The Unknown Gunshot That Rings in the Dark
+7,188,203,The Desperate Revival - The Cavern of the Detective Boys,01/05/00,https://www.detectiveconanworld.com/wiki/The Desperate Revival - The Cavern of the Detective Boys
+7,189,204,The Desperate Revival - The Wounded Great Detective,08/05/00,https://www.detectiveconanworld.com/wiki/The Desperate Revival - The Wounded Great Detective
+7,190,205,The Desperate Revival - The Third Choice,15/05/00,https://www.detectiveconanworld.com/wiki/The Desperate Revival - The Third Choice
+7,191,206,The Desperate Revival - The Black Knight,22/05/00,https://www.detectiveconanworld.com/wiki/The Desperate Revival - The Black Knight
+7,192,207,The Desperate Revival - Shinichi's Return,29/05/00,https://www.detectiveconanworld.com/wiki/The Desperate Revival - Shinichi's Return
+7,193,208,The Desperate Revival - The Promised Place,05/06/00,https://www.detectiveconanworld.com/wiki/The Desperate Revival - The Promised Place
+8,194,209,The Significant Music Box (Part 1),12/06/00,https://www.detectiveconanworld.com/wiki/The Significant Music Box
+8,195,210,The Significant Music Box (Part 2),19/06/00,https://www.detectiveconanworld.com/wiki/The Significant Music Box
+8,196,211,"The Invisible Weapon, Ran's First Investigation",26/06/00,"https://www.detectiveconanworld.com/wiki/The Invisible Weapon, Ran's First Investigation"
+8,197,212,The Super Car's Trap (Part 1),03/07/00,https://www.detectiveconanworld.com/wiki/The Super Car's Trap
+8,198,213,The Super Car's Trap (Part 2),10/07/00,https://www.detectiveconanworld.com/wiki/The Super Car's Trap
+8,199,214,"Kogoro Mouri, Suspect (Part 1)",17/07/00,"https://www.detectiveconanworld.com/wiki/Kogoro Mouri, Suspect"
+8,200,215,"Kogoro Mouri, Suspect (Part 2)",24/07/00,"https://www.detectiveconanworld.com/wiki/Kogoro Mouri, Suspect"
+8,201,216,The Tenth Passenger (Part 1),31/07/00,https://www.detectiveconanworld.com/wiki/The Tenth Passenger
+8,202,217,The Tenth Passenger (Part 2),07/08/00,https://www.detectiveconanworld.com/wiki/The Tenth Passenger
+8,203,218,The Black Wings of Icarus (Part 1),14/08/00,https://www.detectiveconanworld.com/wiki/The Black Wings of Icarus
+8,204,219,The Black Wings of Icarus (Part 2),21/08/00,https://www.detectiveconanworld.com/wiki/The Black Wings of Icarus
+8,205,220,Metropolitan Police Detective Love Story 3 (Part 1),28/08/00,https://www.detectiveconanworld.com/wiki/Metropolitan Police Detective Love Story 3
+8,206,221,Metropolitan Police Detective Love Story 3 (Part 2),04/09/00,https://www.detectiveconanworld.com/wiki/Metropolitan Police Detective Love Story 3
+8,207,222,The Deduction That Was Too Good,11/09/00,https://www.detectiveconanworld.com/wiki/The Deduction That Was Too Good
+8,208,223-224,The Entrance to the Maze: The Anger of the Colossus (1 Hour Special),09/10/00,https://www.detectiveconanworld.com/wiki/The Entrance to the Maze: The Anger of the Colossus (1 Hour Special)
+8,209,225,The Falling from Mt. Ryujin Case,16/10/00,https://www.detectiveconanworld.com/wiki/The Falling from Mt. Ryujin Case
+8,210,226,The Water Palace of Five Colors Legend (Part 1),23/10/00,https://www.detectiveconanworld.com/wiki/The Water Palace of Five Colors Legend
+8,211,227,The Water Palace of Five Colors Legend (Part 2),30/10/00,https://www.detectiveconanworld.com/wiki/The Water Palace of Five Colors Legend
+8,212,228,"Mushrooms, Bears, and the Detective Boys (Part 1)",06/11/00,"https://www.detectiveconanworld.com/wiki/Mushrooms, Bears, and the Detective Boys"
+8,213,229,"Mushrooms, Bears, and the Detective Boys (Part 2)",13/11/00,"https://www.detectiveconanworld.com/wiki/Mushrooms, Bears, and the Detective Boys"
+8,214,230,The Mysterious Retro Room Case,20/11/00,https://www.detectiveconanworld.com/wiki/The Mysterious Retro Room Case
+8,215,231,The Bay of Revenge (Part 1),27/11/00,https://www.detectiveconanworld.com/wiki/The Bay of Revenge
+8,216,232,The Bay of Revenge (Part 2),04/12/00,https://www.detectiveconanworld.com/wiki/The Bay of Revenge
+9,217,233,Megure's Sealed Secret (Part 1),11/12/00,https://www.detectiveconanworld.com/wiki/Megure's Sealed Secret
+9,218,234,Megure's Sealed Secret (Part 2),18/12/00,https://www.detectiveconanworld.com/wiki/Megure's Sealed Secret
+9,219,235-238,The Gathering of the Detectives! Shinichi Kudo vs. Kaitou Kid (2 Hour Special),08/01/01,https://www.detectiveconanworld.com/wiki/The Gathering of the Detectives! Shinichi Kudo vs. Kaitou Kid (2 Hour Special)
+9,220,239,The Client Full of Lies (Part 1),15/01/01,https://www.detectiveconanworld.com/wiki/The Client Full of Lies
+9,221,240,The Client Full of Lies (Part 2),22/01/01,https://www.detectiveconanworld.com/wiki/The Client Full of Lies
+9,222,241,And Then There Were No Mermaids (The Case),29/01/01,https://www.detectiveconanworld.com/wiki/And Then There Were No Mermaids (The Case)
+9,223,242,And Then There Were No Mermaids (The Deduction),05/02/01,https://www.detectiveconanworld.com/wiki/And Then There Were No Mermaids (The Deduction)
+9,224,243,And Then There Were No Mermaids (The Resolution),12/02/01,https://www.detectiveconanworld.com/wiki/And Then There Were No Mermaids (The Resolution)
+9,225,244,The Secret of the High Sales,19/02/01,https://www.detectiveconanworld.com/wiki/The Secret of the High Sales
+9,226,245,The Battle Game Trap (Part 1),26/02/01,https://www.detectiveconanworld.com/wiki/The Battle Game Trap
+9,227,246,The Battle Game Trap (Part 2),05/03/01,https://www.detectiveconanworld.com/wiki/The Battle Game Trap
+9,228,247,The Murderous Pottery Class (Part 1),12/03/01,https://www.detectiveconanworld.com/wiki/The Murderous Pottery Class
+9,229,248,The Murderous Pottery Class (Part 2),19/03/01,https://www.detectiveconanworld.com/wiki/The Murderous Pottery Class
+9,230,249,The Mysterious Passenger (Part 1),16/04/01,https://www.detectiveconanworld.com/wiki/The Mysterious Passenger
+9,231,250,The Mysterious Passenger (Part 2),23/04/01,https://www.detectiveconanworld.com/wiki/The Mysterious Passenger
+9,232,251,The Falling from the Condo Case,07/05/01,https://www.detectiveconanworld.com/wiki/The Falling from the Condo Case
+9,233,252,The Evidence That Didn't Disappear (Part 1),14/05/01,https://www.detectiveconanworld.com/wiki/The Evidence That Didn't Disappear
+9,234,253,The Evidence That Didn't Disappear (Part 2),21/05/01,https://www.detectiveconanworld.com/wiki/The Evidence That Didn't Disappear
+9,235,254,The Locked Wine Cellar,28/05/01,https://www.detectiveconanworld.com/wiki/The Locked Wine Cellar
+9,236,255,The Nanki Shirahama Mystery Tour (Part 1),04/06/01,https://www.detectiveconanworld.com/wiki/The Nanki Shirahama Mystery Tour
+9,237,256,The Nanki Shirahama Mystery Tour (Part 2),11/06/01,https://www.detectiveconanworld.com/wiki/The Nanki Shirahama Mystery Tour
+9,238,257,"The 3 ""K""s of Osaka Case (Part 1)",18/06/01,"https://www.detectiveconanworld.com/wiki/The 3 ""K""s of Osaka Case"
+9,239,258,"The 3 ""K""s of Osaka Case (Part 2)",25/06/01,"https://www.detectiveconanworld.com/wiki/The 3 ""K""s of Osaka Case"
+9,240,259,The Shinkansen Transport Case (Part 1),02/07/01,https://www.detectiveconanworld.com/wiki/The Shinkansen Transport Case
+9,241,260,The Shinkansen Transport Case (Part 2),09/07/01,https://www.detectiveconanworld.com/wiki/The Shinkansen Transport Case
+9,242,261,Boy Genta's Misfortune,16/07/01,https://www.detectiveconanworld.com/wiki/Boy Genta's Misfortune
+9,243,262,Kogoro Mouri's Imposter (Part 1),23/07/01,https://www.detectiveconanworld.com/wiki/Kogoro Mouri's Imposter
+9,244,263,Kogoro Mouri's Imposter (Part 2),30/07/01,https://www.detectiveconanworld.com/wiki/Kogoro Mouri's Imposter
+9,245,264,The Gunshot at the Sunflower Estate,06/08/01,https://www.detectiveconanworld.com/wiki/The Gunshot at the Sunflower Estate
+9,246,265,The Mystery in the Net (Part 1),13/08/01,https://www.detectiveconanworld.com/wiki/The Mystery in the Net
+9,247,266,The Mystery in the Net (Part 2),20/08/01,https://www.detectiveconanworld.com/wiki/The Mystery in the Net
+9,248,267,The Alibi of the Soothing Forest,27/08/01,https://www.detectiveconanworld.com/wiki/The Alibi of the Soothing Forest
+9,249,268,The Celebrities' Secret (Part 1),03/09/01,https://www.detectiveconanworld.com/wiki/The Celebrities' Secret
+9,250,269,The Celebrities' Secret (Part 2),10/09/01,https://www.detectiveconanworld.com/wiki/The Celebrities' Secret
+9,251,270,The Tragedy at the OK Corral,17/09/01,https://www.detectiveconanworld.com/wiki/The Tragedy at the OK Corral
+9,252,271,The Kidnapper in the Picture,08/10/01,https://www.detectiveconanworld.com/wiki/The Kidnapper in the Picture
+9,253,272,Metropolitan Police Detective Love Story 4 (Part 1),15/10/01,https://www.detectiveconanworld.com/wiki/Metropolitan Police Detective Love Story 4
+9,254,273,Metropolitan Police Detective Love Story 4 (Part 2),22/10/01,https://www.detectiveconanworld.com/wiki/Metropolitan Police Detective Love Story 4
+10,255,274,The 14th Round of the Matsue Tamatsukuri Linked Verse Contest (Part 1),29/10/01,https://www.detectiveconanworld.com/wiki/The 14th Round of the Matsue Tamatsukuri Linked Verse Contest
+10,256,275,The 14th Round of the Matsue Tamatsukuri Linked Verse Contest (Part 2),05/11/01,https://www.detectiveconanworld.com/wiki/The 14th Round of the Matsue Tamatsukuri Linked Verse Contest
+10,257,276,The Mysterious Punishment From Heaven,12/11/01,https://www.detectiveconanworld.com/wiki/The Mysterious Punishment From Heaven
+10,258,277,The Man from Chicago (Part 1),19/11/01,https://www.detectiveconanworld.com/wiki/The Man from Chicago
+10,259,278,The Man from Chicago (Part 2),26/11/01,https://www.detectiveconanworld.com/wiki/The Man from Chicago
+10,260,279,The Shaking Restaurant,03/12/01,https://www.detectiveconanworld.com/wiki/The Shaking Restaurant
+10,261,280,The Fearful Legend of the Snowy Night (Part 1),10/12/01,https://www.detectiveconanworld.com/wiki/The Fearful Legend of the Snowy Night
+10,262,281,The Fearful Legend of the Snowy Night (Part 2),17/12/01,https://www.detectiveconanworld.com/wiki/The Fearful Legend of the Snowy Night
+10,263,282-285,The Osaka Double Mystery - The Naniwa Swordsman and Toyotomi's Castle (2 Hour Special),07/01/02,https://www.detectiveconanworld.com/wiki/The Osaka Double Mystery - The Naniwa Swordsman and Toyotomi's Castle (2 Hour Special)
+10,264,286,Courtroom Confrontation: Kisaki vs. Kogoro (Part 1),14/01/02,https://www.detectiveconanworld.com/wiki/Courtroom Confrontation: Kisaki vs. Kogoro
+10,265,287,Courtroom Confrontation: Kisaki vs. Kogoro (Part 2),21/01/02,https://www.detectiveconanworld.com/wiki/Courtroom Confrontation: Kisaki vs. Kogoro
+10,266,288,The Truth Behind Valentine's (The Case),28/01/02,https://www.detectiveconanworld.com/wiki/The Truth Behind Valentine's (The Case)
+10,267,289,The Truth Behind Valentine's (The Deduction),04/02/02,https://www.detectiveconanworld.com/wiki/The Truth Behind Valentine's (The Deduction)
+10,268,290,The Truth Behind Valentine's (The Resolution),11/02/02,https://www.detectiveconanworld.com/wiki/The Truth Behind Valentine's (The Resolution)
+10,269,291,The Forgotten Memento from the Crime (Part 1),18/02/02,https://www.detectiveconanworld.com/wiki/The Forgotten Memento from the Crime
+10,270,292,The Forgotten Memento from the Crime (Part 2),04/03/02,https://www.detectiveconanworld.com/wiki/The Forgotten Memento from the Crime
+10,271,293,The Secret Rushed Omission (Part 1),11/03/02,https://www.detectiveconanworld.com/wiki/The Secret Rushed Omission
+10,272,294,The Secret Rushed Omission (Part 2),18/03/02,https://www.detectiveconanworld.com/wiki/The Secret Rushed Omission
+10,273,295,Riddle Granny Disappearance Case,08/04/02,https://www.detectiveconanworld.com/wiki/Riddle Granny Disappearance Case
+10,274,296,The Truth of the Haunted House (Part 1),15/04/02,https://www.detectiveconanworld.com/wiki/The Truth of the Haunted House
+10,275,297,The Truth of the Haunted House (Part 2),22/04/02,https://www.detectiveconanworld.com/wiki/The Truth of the Haunted House
+10,276,298,The Policeman's Missing Notebook Case,06/05/02,https://www.detectiveconanworld.com/wiki/The Policeman's Missing Notebook Case
+10,277,299,English Teacher vs. Great Western Detective (Part 1),13/05/02,https://www.detectiveconanworld.com/wiki/English Teacher vs. Great Western Detective
+10,278,300,English Teacher vs. Great Western Detective (Part 2),20/05/02,https://www.detectiveconanworld.com/wiki/English Teacher vs. Great Western Detective
+10,279,301,Hooligan's Labyrinth (Part 1),27/05/02,https://www.detectiveconanworld.com/wiki/Hooligan's Labyrinth
+10,280,302,Hooligan's Labyrinth (Part 2),03/06/02,https://www.detectiveconanworld.com/wiki/Hooligan's Labyrinth
+10,281,303,The Small Eye-Witnesses,10/06/02,https://www.detectiveconanworld.com/wiki/The Small Eye-Witnesses
+10,282,304,The Mystery of the Water-Flowing Stone Garden (Part 1),17/06/02,https://www.detectiveconanworld.com/wiki/The Mystery of the Water-Flowing Stone Garden
+10,283,305,The Mystery of the Water-Flowing Stone Garden (Part 2),24/06/02,https://www.detectiveconanworld.com/wiki/The Mystery of the Water-Flowing Stone Garden
+10,284,306,Chinatown Deja Vu in the Rain (Part 1),01/07/02,https://www.detectiveconanworld.com/wiki/Chinatown Deja Vu in the Rain
+10,285,307,Chinatown Deja Vu in the Rain (Part 2),08/07/02,https://www.detectiveconanworld.com/wiki/Chinatown Deja Vu in the Rain
+11,286,308,Shinichi Kudo's New York Case (The Case),15/07/02,https://www.detectiveconanworld.com/wiki/Shinichi Kudo's New York Case (The Case)
+11,287,309,Shinichi Kudo's New York Case (The Deduction),22/07/02,https://www.detectiveconanworld.com/wiki/Shinichi Kudo's New York Case (The Deduction)
+11,288,310,Shinichi Kudo's New York Case (The Resolution),29/07/02,https://www.detectiveconanworld.com/wiki/Shinichi Kudo's New York Case (The Resolution)
+11,289,311,Mitsuhiko's Mystifying Forest (Part 1),05/08/02,https://www.detectiveconanworld.com/wiki/Mitsuhiko's Mystifying Forest
+11,290,312,Mitsuhiko's Mystifying Forest (Part 2),12/08/02,https://www.detectiveconanworld.com/wiki/Mitsuhiko's Mystifying Forest
+11,291,313,Solitary Island of the Princess and the Dragon King's Palace (The Case),19/08/02,https://www.detectiveconanworld.com/wiki/Solitary Island of the Princess and the Dragon King's Palace (The Case)
+11,292,314,Solitary Island of the Princess and the Dragon King's Palace (The Pursuit),26/08/02,https://www.detectiveconanworld.com/wiki/Solitary Island of the Princess and the Dragon King's Palace (The Pursuit)
+11,293,315,Solitary Island of the Princess and the Dragon King's Palace (The Resolution),02/09/02,https://www.detectiveconanworld.com/wiki/Solitary Island of the Princess and the Dragon King's Palace (The Resolution)
+11,294,316,The Smash of Determination and Love (Part 1),09/09/02,https://www.detectiveconanworld.com/wiki/The Smash of Determination and Love
+11,295,317,The Smash of Determination and Love (Part 2),16/09/02,https://www.detectiveconanworld.com/wiki/The Smash of Determination and Love
+11,296,318,Houseboat Fishing Shock,14/10/02,https://www.detectiveconanworld.com/wiki/Houseboat Fishing Shock
+11,297,319,Courtroom Confrontation II: Kisaki vs. Kujo (Part 1),21/10/02,https://www.detectiveconanworld.com/wiki/Courtroom Confrontation II: Kisaki vs. Kujo
+11,298,320,Courtroom Confrontation II: Kisaki vs. Kujo (Part 2),28/10/02,https://www.detectiveconanworld.com/wiki/Courtroom Confrontation II: Kisaki vs. Kujo
+11,299,321,The Kanmon Strait of Friendship and Murderous Intent (Part 1),04/11/02,https://www.detectiveconanworld.com/wiki/The Kanmon Strait of Friendship and Murderous Intent
+11,300,322,The Kanmon Strait of Friendship and Murderous Intent (Part 2),18/11/02,https://www.detectiveconanworld.com/wiki/The Kanmon Strait of Friendship and Murderous Intent
+11,301,323,Parade of Malice and Saint (Part 1),25/11/02,https://www.detectiveconanworld.com/wiki/Parade of Malice and Saint
+11,302,324,Parade of Malice and Saint (Part 2),02/12/02,https://www.detectiveconanworld.com/wiki/Parade of Malice and Saint
+11,303,325,The Victim Who Came Back,09/12/02,https://www.detectiveconanworld.com/wiki/The Victim Who Came Back
+11,304,326-329,The Trembling Police Headquarters: 12 Million Hostages (2 Hour Special),06/01/03,https://www.detectiveconanworld.com/wiki/The Trembling Police Headquarters: 12 Million Hostages (2 Hour Special)
+11,305,330,The Unseen Suspect (Part 1),13/01/03,https://www.detectiveconanworld.com/wiki/The Unseen Suspect
+11,306,331,The Unseen Suspect (Part 2),20/01/03,https://www.detectiveconanworld.com/wiki/The Unseen Suspect
+11,307,332,On the Trail of a Silent Witness (Part 1),27/01/03,https://www.detectiveconanworld.com/wiki/On the Trail of a Silent Witness
+11,308,333,On the Trail of a Silent Witness (Part 2),03/02/03,https://www.detectiveconanworld.com/wiki/On the Trail of a Silent Witness
+11,309,334,Contact with the Black Organization (The Negotiation),10/02/03,https://www.detectiveconanworld.com/wiki/Contact with the Black Organization (The Negotiation)
+11,310,335,Contact with the Black Organization (The Pursuit),17/02/03,https://www.detectiveconanworld.com/wiki/Contact with the Black Organization (The Pursuit)
+11,311,336,Contact with the Black Organization (Desperation),24/02/03,https://www.detectiveconanworld.com/wiki/Contact with the Black Organization (Desperation)
+11,312,337,Festival Dolls Dyed in the Setting Sun (Part 1),03/03/03,https://www.detectiveconanworld.com/wiki/Festival Dolls Dyed in the Setting Sun
+11,313,338,Festival Dolls Dyed in the Setting Sun (Part 2),10/03/03,https://www.detectiveconanworld.com/wiki/Festival Dolls Dyed in the Setting Sun
+11,314,339,The Scenic Lookout with the Broken Fence,17/03/03,https://www.detectiveconanworld.com/wiki/The Scenic Lookout with the Broken Fence
+11,315,340,Place Exposed to the Sun,14/04/03,https://www.detectiveconanworld.com/wiki/Place Exposed to the Sun
+12,316,341,The Sullied Masked Hero (Part 1),21/04/03,https://www.detectiveconanworld.com/wiki/The Sullied Masked Hero
+12,317,342,The Sullied Masked Hero (Part 2),28/04/03,https://www.detectiveconanworld.com/wiki/The Sullied Masked Hero
+12,318,343,The Lucky Cigar Case (Part 1),05/05/03,https://www.detectiveconanworld.com/wiki/The Lucky Cigar Case
+12,319,344,The Lucky Cigar Case (Part 2),12/05/03,https://www.detectiveconanworld.com/wiki/The Lucky Cigar Case
+12,320,345,The Art of Ninja Alibi Craft,19/05/03,https://www.detectiveconanworld.com/wiki/The Art of Ninja Alibi Craft
+12,321,346,The Kidnapper's Disappearing Getaway Car (Part 1),26/05/03,https://www.detectiveconanworld.com/wiki/The Kidnapper's Disappearing Getaway Car
+12,322,347,The Kidnapper's Disappearing Getaway Car (Part 2),02/06/03,https://www.detectiveconanworld.com/wiki/The Kidnapper's Disappearing Getaway Car
+12,323,348,Heiji Hattori's Desperate Situation! (Part 1),09/06/03,https://www.detectiveconanworld.com/wiki/Heiji Hattori's Desperate Situation!
+12,324,349,Heiji Hattori's Desperate Situation! (Part 2),16/06/03,https://www.detectiveconanworld.com/wiki/Heiji Hattori's Desperate Situation!
+12,325,350,The Red Horse within the Flames (The Case),23/06/03,https://www.detectiveconanworld.com/wiki/The Red Horse within the Flames (The Case)
+12,326,351,The Red Horse within the Flames (The Investigation),30/06/03,https://www.detectiveconanworld.com/wiki/The Red Horse within the Flames (The Investigation)
+12,327,352,The Red Horse within the Flames (The Resolution),07/07/03,https://www.detectiveconanworld.com/wiki/The Red Horse within the Flames (The Resolution)
+12,328,353,The Birthday Wine Mystery,14/07/03,https://www.detectiveconanworld.com/wiki/The Birthday Wine Mystery
+12,329,354,A Friendship That Can't Be Bought (Part 1),28/07/03,https://www.detectiveconanworld.com/wiki/A Friendship That Can't Be Bought
+12,330,355,A Friendship That Can't Be Bought (Part 2),04/08/03,https://www.detectiveconanworld.com/wiki/A Friendship That Can't Be Bought
+12,331,356,The Suspicious Spicy Curry (Part 1),11/08/03,https://www.detectiveconanworld.com/wiki/The Suspicious Spicy Curry
+12,332,357,The Suspicious Spicy Curry (Part 2),18/08/03,https://www.detectiveconanworld.com/wiki/The Suspicious Spicy Curry
+12,333,358,The Similar Princesses (Part 1),25/08/03,https://www.detectiveconanworld.com/wiki/The Similar Princesses
+12,334,359,The Similar Princesses (Part 2),01/09/03,https://www.detectiveconanworld.com/wiki/The Similar Princesses
+12,335,360,Secret of the Tohto Film Development Studio (Part 1),08/09/03,https://www.detectiveconanworld.com/wiki/Secret of the Tohto Film Development Studio
+12,336,361,Secret of the Tohto Film Development Studio (Part 2),15/09/03,https://www.detectiveconanworld.com/wiki/Secret of the Tohto Film Development Studio
+12,337,362,Hidden Circumstances of the Falling Incident,13/10/03,https://www.detectiveconanworld.com/wiki/Hidden Circumstances of the Falling Incident
+12,338,363,The Four Porsches (Part 1),20/10/03,https://www.detectiveconanworld.com/wiki/The Four Porsches
+12,339,364,The Four Porsches (Part 2),27/10/03,https://www.detectiveconanworld.com/wiki/The Four Porsches
+12,340,365,Hidden Bathroom Secret (Part 1),03/11/03,https://www.detectiveconanworld.com/wiki/Hidden Bathroom Secret
+12,341,366,Hidden Bathroom Secret (Part 2),10/11/03,https://www.detectiveconanworld.com/wiki/Hidden Bathroom Secret
+12,342,367-368,The Bride of Huis ten Bosch (1 Hour Special),17/11/03,https://www.detectiveconanworld.com/wiki/The Bride of Huis ten Bosch (1 Hour Special)
+12,343,369,The Convenience Store Trap (Part 1),01/12/03,https://www.detectiveconanworld.com/wiki/The Convenience Store Trap
+12,344,370,The Convenience Store Trap (Part 2),08/12/03,https://www.detectiveconanworld.com/wiki/The Convenience Store Trap
+12,345,371-375,Head-to-Head Match with the Black Organization: A Dual Mystery on a Full Moon Night (2.5 Hour Special),05/01/04,https://www.detectiveconanworld.com/wiki/Head-to-Head Match with the Black Organization: A Dual Mystery on a Full Moon Night (2.5 Hour Special)
+12,346,376,Find the Buttock's Mark (Part 1),12/01/04,https://www.detectiveconanworld.com/wiki/Find the Buttock's Mark
+12,347,377,Find the Buttock's Mark (Part 2),19/01/04,https://www.detectiveconanworld.com/wiki/Find the Buttock's Mark
+12,348,378,"Love, Ghosts, and World Heritage (Part 1)",26/01/04,"https://www.detectiveconanworld.com/wiki/Love, Ghosts, and World Heritage"
+12,349,379,"Love, Ghosts, and World Heritage (Part 2)",02/02/04,"https://www.detectiveconanworld.com/wiki/Love, Ghosts, and World Heritage"
+12,350,380,The Forgotten Cell Phone (Part 1),09/02/04,https://www.detectiveconanworld.com/wiki/The Forgotten Cell Phone
+12,351,381,The Forgotten Cell Phone (Part 2),16/02/04,https://www.detectiveconanworld.com/wiki/The Forgotten Cell Phone
+12,352,382,The Fishing Tournament Tragedy (Part 1),23/02/04,https://www.detectiveconanworld.com/wiki/The Fishing Tournament Tragedy
+12,353,383,The Fishing Tournament Tragedy (Part 2),01/03/04,https://www.detectiveconanworld.com/wiki/The Fishing Tournament Tragedy
+13,354,384,A Small Client (Part 1),08/03/04,https://www.detectiveconanworld.com/wiki/A Small Client
+13,355,385,A Small Client (Part 2),15/03/04,https://www.detectiveconanworld.com/wiki/A Small Client
+13,356,386-387,Kaitou Kid's Miraculous Midair Walk (1 Hour Special),12/04/04,https://www.detectiveconanworld.com/wiki/Kaitou Kid's Miraculous Midair Walk (1 Hour Special)
+13,357,388,Sweetheart is an Illusion of Spring,26/04/04,https://www.detectiveconanworld.com/wiki/Sweetheart is an Illusion of Spring
+13,358,389,Metropolitan Police Detective Love Story 5 (Part 1),03/05/04,https://www.detectiveconanworld.com/wiki/Metropolitan Police Detective Love Story 5
+13,359,390,Metropolitan Police Detective Love Story 5 (Part 2),10/05/04,https://www.detectiveconanworld.com/wiki/Metropolitan Police Detective Love Story 5
+13,360,391,A Mysterious Spring Beetle,17/05/04,https://www.detectiveconanworld.com/wiki/A Mysterious Spring Beetle
+13,361,392,Teitan High School's Ghost Story (Part 1),24/05/04,https://www.detectiveconanworld.com/wiki/Teitan High School's Ghost Story
+13,362,393,Teitan High School's Ghost Story (Part 2),31/05/04,https://www.detectiveconanworld.com/wiki/Teitan High School's Ghost Story
+13,363,394,The City Crows,07/06/04,https://www.detectiveconanworld.com/wiki/The City Crows
+13,364,395,The Synchronicity Case (Part 1),14/06/04,https://www.detectiveconanworld.com/wiki/The Synchronicity Case
+13,365,396,The Synchronicity Case (Part 2),21/06/04,https://www.detectiveconanworld.com/wiki/The Synchronicity Case
+13,366,397,The Tragedy of the Pier in Plain Sight (Part 1),05/07/04,https://www.detectiveconanworld.com/wiki/The Tragedy of the Pier in Plain Sight
+13,367,398,The Tragedy of the Pier in Plain Sight (Part 2),12/07/04,https://www.detectiveconanworld.com/wiki/The Tragedy of the Pier in Plain Sight
+13,368,399,The Candy House the Witch Lives In,26/07/04,https://www.detectiveconanworld.com/wiki/The Candy House the Witch Lives In
+13,369,400,A Lucky Man's Suspense,02/08/04,https://www.detectiveconanworld.com/wiki/A Lucky Man's Suspense
+13,370,401,Running Away in a Game,09/08/04,https://www.detectiveconanworld.com/wiki/Running Away in a Game
+13,371,402,A Course Without Protest (Part 1),23/08/04,https://www.detectiveconanworld.com/wiki/A Course Without Protest
+13,372,403,A Course Without Protest (Part 2),30/08/04,https://www.detectiveconanworld.com/wiki/A Course Without Protest
+13,373,404,Deadly Poisonous Spider Trap,06/09/04,https://www.detectiveconanworld.com/wiki/Deadly Poisonous Spider Trap
+13,374,405,A Code of Stars and Tobacco (Part 1),18/10/04,https://www.detectiveconanworld.com/wiki/A Code of Stars and Tobacco
+13,375,406,A Code of Stars and Tobacco (Part 2),25/10/04,https://www.detectiveconanworld.com/wiki/A Code of Stars and Tobacco
+13,376,407,The Time Limit is 15:00!,01/11/04,https://www.detectiveconanworld.com/wiki/The Time Limit is 15:00!
+13,377,408,Momotarou Mystery Solving Tour (Part 1),08/11/04,https://www.detectiveconanworld.com/wiki/Momotarou Mystery Solving Tour
+13,378,409,Momotarou Mystery Solving Tour (Part 2),15/11/04,https://www.detectiveconanworld.com/wiki/Momotarou Mystery Solving Tour
+13,379,410,The Case of the Furisode at the Hidden Hot Spring on a Snowy Night (Part 1),22/11/04,https://www.detectiveconanworld.com/wiki/The Case of the Furisode at the Hidden Hot Spring on a Snowy Night
+13,380,411,The Case of the Furisode at the Hidden Hot Spring on a Snowy Night (Part 2),29/11/04,https://www.detectiveconanworld.com/wiki/The Case of the Furisode at the Hidden Hot Spring on a Snowy Night
+13,381,412,Which One's Deduction Show (Part 1),06/12/04,https://www.detectiveconanworld.com/wiki/Which One's Deduction Show
+13,382,413,Which One's Deduction Show (Part 2),13/12/04,https://www.detectiveconanworld.com/wiki/Which One's Deduction Show
+13,383,414-417,Miracle at Koshien Ball Park! The Defiants Face the Dark Demon (2 Hour Special),20/12/04,https://www.detectiveconanworld.com/wiki/Miracle at Koshien Ball Park! The Defiants Face the Dark Demon (2 Hour Special)
+13,384,418,The Target is Kogoro Mouri,17/01/05,https://www.detectiveconanworld.com/wiki/The Target is Kogoro Mouri
+13,385,419,The Dissonance of the Stradivarius (Prelude),24/01/05,https://www.detectiveconanworld.com/wiki/The Dissonance of the Stradivarius (Prelude)
+13,386,420,The Dissonance of the Stradivarius (Interlude),31/01/05,https://www.detectiveconanworld.com/wiki/The Dissonance of the Stradivarius (Interlude)
+13,387,421,The Dissonance of the Stradivarius (Postlude),07/02/05,https://www.detectiveconanworld.com/wiki/The Dissonance of the Stradivarius (Postlude)
+13,388,422,Kogoro Gets Drunk in Satsuma (Part 1),14/02/05,https://www.detectiveconanworld.com/wiki/Kogoro Gets Drunk in Satsuma
+13,389,423,Kogoro Gets Drunk in Satsuma (Part 2),21/02/05,https://www.detectiveconanworld.com/wiki/Kogoro Gets Drunk in Satsuma
+14,390,424,Metropolitan Police Detective Love Story 6 (Part 1),28/02/05,https://www.detectiveconanworld.com/wiki/Metropolitan Police Detective Love Story 6
+14,391,425,Metropolitan Police Detective Love Story 6 (Part 2),07/03/05,https://www.detectiveconanworld.com/wiki/Metropolitan Police Detective Love Story 6
+14,392,426,The Mysterious Height Difference of 20cm,14/03/05,https://www.detectiveconanworld.com/wiki/The Mysterious Height Difference of 20cm
+14,393,427,A Kidnapping Case... So It Seems,21/03/05,https://www.detectiveconanworld.com/wiki/A Kidnapping Case... So It Seems
+14,394,428,Big Adventure in the Eccentric Mansion (The Seal),18/04/05,https://www.detectiveconanworld.com/wiki/Big Adventure in the Eccentric Mansion (The Seal)
+14,395,429,Big Adventure in the Eccentric Mansion (The Mechanism),25/04/05,https://www.detectiveconanworld.com/wiki/Big Adventure in the Eccentric Mansion (The Mechanism)
+14,396,430,Big Adventure in the Eccentric Mansion (The Resolution),02/05/05,https://www.detectiveconanworld.com/wiki/Big Adventure in the Eccentric Mansion (The Resolution)
+14,397,431,"Hot, Bitter, Sweet Soup",09/05/05,"https://www.detectiveconanworld.com/wiki/Hot, Bitter, Sweet Soup"
+14,398,432,The Strange Family's Request (Part 1),16/05/05,https://www.detectiveconanworld.com/wiki/The Strange Family's Request
+14,399,433,The Strange Family's Request (Part 2),23/05/05,https://www.detectiveconanworld.com/wiki/The Strange Family's Request
+14,400,434,Ran's Suspicions,30/05/05,https://www.detectiveconanworld.com/wiki/Ran's Suspicions
+14,401,435,A Jewel Thief Caught Red-Handed (Part 1),06/06/05,https://www.detectiveconanworld.com/wiki/A Jewel Thief Caught Red-Handed
+14,402,436,A Jewel Thief Caught Red-Handed (Part 2),13/06/05,https://www.detectiveconanworld.com/wiki/A Jewel Thief Caught Red-Handed
+14,403,437,The Mysterious Angel's Mansion (Part 1),20/06/05,https://www.detectiveconanworld.com/wiki/The Mysterious Angel's Mansion
+14,404,438,The Mysterious Angel's Mansion (Part 2),27/06/05,https://www.detectiveconanworld.com/wiki/The Mysterious Angel's Mansion
+14,405,439,The Man Who Called for an Ambulance,04/07/05,https://www.detectiveconanworld.com/wiki/The Man Who Called for an Ambulance
+14,406,440,Conan and Heiji's Deduction Magic (The Trick),11/07/05,https://www.detectiveconanworld.com/wiki/Conan and Heiji's Deduction Magic (The Trick)
+14,407,441,Conan and Heiji's Deduction Magic (The Mansion),18/07/05,https://www.detectiveconanworld.com/wiki/Conan and Heiji's Deduction Magic (The Mansion)
+14,408,442,Conan and Heiji's Deduction Magic (The Resolution),01/08/05,https://www.detectiveconanworld.com/wiki/Conan and Heiji's Deduction Magic (The Resolution)
+14,409,443,The Simultaneous Stage Advance and Kidnapping (Part 1),08/08/05,https://www.detectiveconanworld.com/wiki/The Simultaneous Stage Advance and Kidnapping
+14,410,444,The Simultaneous Stage Advance and Kidnapping (Part 2),15/08/05,https://www.detectiveconanworld.com/wiki/The Simultaneous Stage Advance and Kidnapping
+14,411,445,The Shinto Shrine Torii's Surprising Code (Part 1),22/08/05,https://www.detectiveconanworld.com/wiki/The Shinto Shrine Torii's Surprising Code
+14,412,446,The Shinto Shrine Torii's Surprising Code (Part 2),29/08/05,https://www.detectiveconanworld.com/wiki/The Shinto Shrine Torii's Surprising Code
+14,413,447,The Half Completed Crime Mystery,05/09/05,https://www.detectiveconanworld.com/wiki/The Half Completed Crime Mystery
+14,414,448,The Detective Boys' Bluebird Chase,12/09/05,https://www.detectiveconanworld.com/wiki/The Detective Boys' Bluebird Chase
+14,415,449,The Evil Spirit Appears on An Unlucky Day (The Case),10/10/05,https://www.detectiveconanworld.com/wiki/The Evil Spirit Appears on An Unlucky Day (The Case)
+14,416,450,The Evil Spirit Appears on An Unlucky Day (The Suspicion),17/10/05,https://www.detectiveconanworld.com/wiki/The Evil Spirit Appears on An Unlucky Day (The Suspicion)
+14,417,451,The Evil Spirit Appears on An Unlucky Day (The Resolution),24/10/05,https://www.detectiveconanworld.com/wiki/The Evil Spirit Appears on An Unlucky Day (The Resolution)
+14,418,452,Home of Beika's Grenier,31/10/05,https://www.detectiveconanworld.com/wiki/Home of Beika's Grenier
+14,419,453,Sword of the Eight-Headed Serpent (Part 1),07/11/05,https://www.detectiveconanworld.com/wiki/Sword of the Eight-Headed Serpent
+14,420,454,Sword of the Eight-Headed Serpent (Part 2),14/11/05,https://www.detectiveconanworld.com/wiki/Sword of the Eight-Headed Serpent
+14,421,455,Gingko-Colored First Love (Part 1),21/11/05,https://www.detectiveconanworld.com/wiki/Gingko-Colored First Love
+14,422,456,Gingko-Colored First Love (Part 2),28/11/05,https://www.detectiveconanworld.com/wiki/Gingko-Colored First Love
+14,423,457,The Detective Boys and the Four Caterpillar Brothers,05/12/05,https://www.detectiveconanworld.com/wiki/The Detective Boys and the Four Caterpillar Brothers
+14,424,458,The Photo Mail from the Clown,19/12/05,https://www.detectiveconanworld.com/wiki/The Photo Mail from the Clown
+14,425,459-463,Black Impact! The Moment the Black Organization Reaches Out (2.5 Hour Special),09/01/06,https://www.detectiveconanworld.com/wiki/Black Impact! The Moment the Black Organization Reaches Out (2.5 Hour Special)
+14,426,464,Love Letter to Ran,16/01/06,https://www.detectiveconanworld.com/wiki/Love Letter to Ran
+15,427,465,Super Secret of the Road to School (Part 1),23/01/06,https://www.detectiveconanworld.com/wiki/Super Secret of the Road to School
+15,428,466,Super Secret of the Road to School (Part 2),30/01/06,https://www.detectiveconanworld.com/wiki/Super Secret of the Road to School
+15,429,467,Two People Who Can't Return (Part 1),06/02/06,https://www.detectiveconanworld.com/wiki/Two People Who Can't Return
+15,430,468,Two People Who Can't Return (Part 2),13/02/06,https://www.detectiveconanworld.com/wiki/Two People Who Can't Return
+15,431,469,Metropolitan Police Detective Love Story 7 (Part 1),20/02/06,https://www.detectiveconanworld.com/wiki/Metropolitan Police Detective Love Story 7
+15,432,470,Metropolitan Police Detective Love Story 7 (Part 2),27/02/06,https://www.detectiveconanworld.com/wiki/Metropolitan Police Detective Love Story 7
+15,433,471,Conan: A Strange Child,06/03/06,https://www.detectiveconanworld.com/wiki/Conan: A Strange Child
+15,434,472,The Great Dog Coeur's Triumph,10/04/06,https://www.detectiveconanworld.com/wiki/The Great Dog Coeur's Triumph
+15,435,473,Information Gathered About the Detective Boys (Part 1),17/04/06,https://www.detectiveconanworld.com/wiki/Information Gathered About the Detective Boys
+15,436,474,Information Gathered About the Detective Boys (Part 2),24/04/06,https://www.detectiveconanworld.com/wiki/Information Gathered About the Detective Boys
+15,437,475,Aya Ueto and Shinichi - The Promise from 4 Years Ago,08/05/06,https://www.detectiveconanworld.com/wiki/Aya Ueto and Shinichi - The Promise from 4 Years Ago
+15,438,476,The Pursuit of the Fish E-mail,15/05/06,https://www.detectiveconanworld.com/wiki/The Pursuit of the Fish E-mail
+15,439,477,And It'd Be Nice if Everybody Disappeared,22/05/06,https://www.detectiveconanworld.com/wiki/And It'd Be Nice if Everybody Disappeared
+15,440,478,The Car Stunt's Utmost Limit,29/05/06,https://www.detectiveconanworld.com/wiki/The Car Stunt's Utmost Limit
+15,441,479,"The Final ""Ahh""",05/06/06,"https://www.detectiveconanworld.com/wiki/The Final ""Ahh"""
+15,442,480,The Man Obstructed by the Steel Frame,12/06/06,https://www.detectiveconanworld.com/wiki/The Man Obstructed by the Steel Frame
+15,443,481,Clam Digging With a Sigh (Part 1),26/06/06,https://www.detectiveconanworld.com/wiki/Clam Digging With a Sigh
+15,444,482,Clam Digging With a Sigh (Part 2),03/07/06,https://www.detectiveconanworld.com/wiki/Clam Digging With a Sigh
+15,445,483,Secret of the Russian Blue,10/07/06,https://www.detectiveconanworld.com/wiki/Secret of the Russian Blue
+15,446,484,The Sealed Western-Style Window (Part 1),24/07/06,https://www.detectiveconanworld.com/wiki/The Sealed Western-Style Window
+15,447,485,The Sealed Western-Style Window (Part 2),31/07/06,https://www.detectiveconanworld.com/wiki/The Sealed Western-Style Window
+15,448,486,The Meguro Sanma Case,14/08/06,https://www.detectiveconanworld.com/wiki/The Meguro Sanma Case
+15,449,487-488,Metropolitan Police Detective Love Story - Fake Wedding (1 Hour Special),21/08/06,https://www.detectiveconanworld.com/wiki/Metropolitan Police Detective Love Story - Fake Wedding (1 Hour Special)
+15,450,489,Trick vs. Magic (Part 1),28/08/06,https://www.detectiveconanworld.com/wiki/Trick vs. Magic
+15,451,490,Trick vs. Magic (Part 2),04/09/06,https://www.detectiveconanworld.com/wiki/Trick vs. Magic
+15,452,491-492,The Phantom of the Konpira (1 Hour Special),11/09/06,https://www.detectiveconanworld.com/wiki/The Phantom of the Konpira (1 Hour Special)
+15,453,493,Preview Screening of Fate and Friendship,23/10/06,https://www.detectiveconanworld.com/wiki/Preview Screening of Fate and Friendship
+15,454,494,The Overturned Conclusion (Part 1),30/10/06,https://www.detectiveconanworld.com/wiki/The Overturned Conclusion
+15,455,495,The Overturned Conclusion (Part 2),06/11/06,https://www.detectiveconanworld.com/wiki/The Overturned Conclusion
+15,456,496,The Mystery I Loved,13/11/06,https://www.detectiveconanworld.com/wiki/The Mystery I Loved
+15,457,497,Sonoko's Red Handkerchief (Part 1),20/11/06,https://www.detectiveconanworld.com/wiki/Sonoko's Red Handkerchief
+15,458,498,Sonoko's Red Handkerchief (Part 2),27/11/06,https://www.detectiveconanworld.com/wiki/Sonoko's Red Handkerchief
+15,459,499,A Mysterious Man - Overly Strict with Regulations,04/12/06,https://www.detectiveconanworld.com/wiki/A Mysterious Man - Overly Strict with Regulations
+15,460,500,Class 1-B's Great Operation!,15/01/07,https://www.detectiveconanworld.com/wiki/Class 1-B's Great Operation!
+15,461,501,The Missing Page,22/01/07,https://www.detectiveconanworld.com/wiki/The Missing Page
+15,462,502,The Shadow of the Black Organization (The Young Witness),29/01/07,https://www.detectiveconanworld.com/wiki/The Shadow of the Black Organization (The Young Witness)
+15,463,503,The Shadow of the Black Organization (The Strange Illumination),05/02/07,https://www.detectiveconanworld.com/wiki/The Shadow of the Black Organization (The Strange Illumination)
+15,464,504,The Shadow of the Black Organization (The Mystery of the Big Reward),12/02/07,https://www.detectiveconanworld.com/wiki/The Shadow of the Black Organization (The Mystery of the Big Reward)
+15,465,505,The Shadow of the Black Organization (Shining Star of Pearl),19/02/07,https://www.detectiveconanworld.com/wiki/The Shadow of the Black Organization (Shining Star of Pearl)
+16,466,506,The Unsmashable Snowman (Part 1),26/02/07,https://www.detectiveconanworld.com/wiki/The Unsmashable Snowman
+16,467,507,The Unsmashable Snowman (Part 2),05/03/07,https://www.detectiveconanworld.com/wiki/The Unsmashable Snowman
+16,468,508,Mysterious Case Near the Pond,12/03/07,https://www.detectiveconanworld.com/wiki/Mysterious Case Near the Pond
+16,469,509,Kaitou Kid and the Four Masterpieces (Part 1),16/04/07,https://www.detectiveconanworld.com/wiki/Kaitou Kid and the Four Masterpieces
+16,470,510,Kaitou Kid and the Four Masterpieces (Part 2),23/04/07,https://www.detectiveconanworld.com/wiki/Kaitou Kid and the Four Masterpieces
+16,471,511,The Uncontrollable Rental Car!,07/05/07,https://www.detectiveconanworld.com/wiki/The Uncontrollable Rental Car!
+16,472,512,Shinichi Kudo's Childhood Adventure (Part 1),14/05/07,https://www.detectiveconanworld.com/wiki/Shinichi Kudo's Childhood Adventure
+16,473,513,Shinichi Kudo's Childhood Adventure (Part 2),21/05/07,https://www.detectiveconanworld.com/wiki/Shinichi Kudo's Childhood Adventure
+16,474,514,The Love of Lawyer Eri Kisaki,04/06/07,https://www.detectiveconanworld.com/wiki/The Love of Lawyer Eri Kisaki
+16,475,515,Bad Luck Grand Prix,18/06/07,https://www.detectiveconanworld.com/wiki/Bad Luck Grand Prix
+16,476,516,Genta's Certain Kill Shot (Part 1),25/06/07,https://www.detectiveconanworld.com/wiki/Genta's Certain Kill Shot
+16,477,517,Genta's Certain Kill Shot (Part 2),02/07/07,https://www.detectiveconanworld.com/wiki/Genta's Certain Kill Shot
+16,478,518,Real 30 Minutes,09/07/07,https://www.detectiveconanworld.com/wiki/Real 30 Minutes
+16,479,519-522,Three Days with Heiji Hattori (2 Hour Special),16/07/07,https://www.detectiveconanworld.com/wiki/Three Days with Heiji Hattori (2 Hour Special)
+16,480,523,Yellow Alibi,23/07/07,https://www.detectiveconanworld.com/wiki/Yellow Alibi
+16,481,524,Mountain Witch's Cutlery (Part 1),30/07/07,https://www.detectiveconanworld.com/wiki/Mountain Witch's Cutlery
+16,482,525,Mountain Witch's Cutlery (Part 2),06/08/07,https://www.detectiveconanworld.com/wiki/Mountain Witch's Cutlery
+16,483,526,The Vanished Policeman,13/08/07,https://www.detectiveconanworld.com/wiki/The Vanished Policeman
+16,484,527,Whereabouts of the Dark Photograph (Part 1),20/08/07,https://www.detectiveconanworld.com/wiki/Whereabouts of the Dark Photograph
+16,485,528,Whereabouts of the Dark Photograph (Part 2),27/08/07,https://www.detectiveconanworld.com/wiki/Whereabouts of the Dark Photograph
+16,486,529,Beckoning Cat from Right to Left,03/09/07,https://www.detectiveconanworld.com/wiki/Beckoning Cat from Right to Left
+16,487,530-531,Metropolitan Police Detective Love Story 8: The Left Hand's Ring Finger (1 Hour Special),15/10/07,https://www.detectiveconanworld.com/wiki/Metropolitan Police Detective Love Story 8: The Left Hand's Ring Finger (1 Hour Special)
+16,488,532-533,The Devil of the TV Station (1 Hour Special),22/10/07,https://www.detectiveconanworld.com/wiki/The Devil of the TV Station (1 Hour Special)
+16,489,534-535,Courtroom Confrontation III: Prosecutor as Eyewitness (1 Hour Special),26/11/07,https://www.detectiveconanworld.com/wiki/Courtroom Confrontation III: Prosecutor as Eyewitness (1 Hour Special)
+16,490,536-537,Heiji Hattori vs. Shinichi Kudo: Deduction Battle on the Ski Slope (1 Hour Special),03/12/07,https://www.detectiveconanworld.com/wiki/Heiji Hattori vs. Shinichi Kudo: Deduction Battle on the Ski Slope (1 Hour Special)
+17,491,538,Clash of Red and Black (The Beginning),14/01/08,https://www.detectiveconanworld.com/wiki/Clash of Red and Black (The Beginning)
+17,492,539,Clash of Red and Black (Blood Relative),21/01/08,https://www.detectiveconanworld.com/wiki/Clash of Red and Black (Blood Relative)
+17,493,540,Clash of Red and Black (Exclamation),28/01/08,https://www.detectiveconanworld.com/wiki/Clash of Red and Black (Exclamation)
+17,494,541,Clash of Red and Black (Hades),04/02/08,https://www.detectiveconanworld.com/wiki/Clash of Red and Black (Hades)
+17,495,542,Clash of Red and Black (Coma),11/02/08,https://www.detectiveconanworld.com/wiki/Clash of Red and Black (Coma)
+17,496,543,Clash of Red and Black (Invasion),18/02/08,https://www.detectiveconanworld.com/wiki/Clash of Red and Black (Invasion)
+17,497,544,Clash of Red and Black (Awakening),25/02/08,https://www.detectiveconanworld.com/wiki/Clash of Red and Black (Awakening)
+17,498,545,Clash of Red and Black (Disturbance),03/03/08,https://www.detectiveconanworld.com/wiki/Clash of Red and Black (Disturbance)
+17,499,546,Clash of Red and Black (Disguise),10/03/08,https://www.detectiveconanworld.com/wiki/Clash of Red and Black (Disguise)
+17,500,547,Clash of Red and Black (Testament),17/03/08,https://www.detectiveconanworld.com/wiki/Clash of Red and Black (Testament)
+17,501,548,Clash of Red and Black (Suspicion),14/04/08,https://www.detectiveconanworld.com/wiki/Clash of Red and Black (Suspicion)
+17,502,549,Clash of Red and Black (Innocence),28/04/08,https://www.detectiveconanworld.com/wiki/Clash of Red and Black (Innocence)
+17,503,550,Clash of Red and Black (Ready to Die),12/05/08,https://www.detectiveconanworld.com/wiki/Clash of Red and Black (Ready to Die)
+17,504,551,Clash of Red and Black (Killed in the Line of Duty),19/05/08,https://www.detectiveconanworld.com/wiki/Clash of Red and Black (Killed in the Line of Duty)
+17,505,552,Lawyer Eri Kisaki's Testimony (Part 1),16/06/08,https://www.detectiveconanworld.com/wiki/Lawyer Eri Kisaki's Testimony
+17,506,553,Lawyer Eri Kisaki's Testimony (Part 2),23/06/08,https://www.detectiveconanworld.com/wiki/Lawyer Eri Kisaki's Testimony
+17,507,554,The Blind Spot in the Karaoke Box (Part 1),30/06/08,https://www.detectiveconanworld.com/wiki/The Blind Spot in the Karaoke Box
+17,508,555,The Blind Spot in the Karaoke Box (Part 2),07/07/08,https://www.detectiveconanworld.com/wiki/The Blind Spot in the Karaoke Box
+17,509,556,"Red, White, Yellow, and the Detective Boys",14/07/08,"https://www.detectiveconanworld.com/wiki/Red, White, Yellow, and the Detective Boys"
+17,510,557,Conan vs. Double Code Mystery,28/07/08,https://www.detectiveconanworld.com/wiki/Conan vs. Double Code Mystery
+17,511,558,Deduction Showdown! Shinichi vs. Subaru Okiya,04/08/08,https://www.detectiveconanworld.com/wiki/Deduction Showdown! Shinichi vs. Subaru Okiya
+17,512,559,The Broken Horoscope,11/08/08,https://www.detectiveconanworld.com/wiki/The Broken Horoscope
+17,513,560,Coffee Aroma with Murderous Intention (Part 1),01/09/08,https://www.detectiveconanworld.com/wiki/Coffee Aroma with Murderous Intention
+17,514,561,Coffee Aroma with Murderous Intention (Part 2),08/09/08,https://www.detectiveconanworld.com/wiki/Coffee Aroma with Murderous Intention
+17,515,562-563,Kaitou Kid's Teleportation Magic (1 Hour Special),20/10/08,https://www.detectiveconanworld.com/wiki/Kaitou Kid's Teleportation Magic (1 Hour Special)
+17,516,564-565,Furinkazan - The Mysterious Armored Warrior (1 Hour Special),03/11/08,https://www.detectiveconanworld.com/wiki/Furinkazan - The Mysterious Armored Warrior (1 Hour Special)
+17,517,566,Furinkazan - Shadow and Lightning Conclusion,10/11/08,https://www.detectiveconanworld.com/wiki/Furinkazan - Shadow and Lightning Conclusion
+17,518,567,Meiji Restoration Mystery Tour: Investigation Chapter,01/12/08,https://www.detectiveconanworld.com/wiki/Meiji Restoration Mystery Tour: Investigation Chapter
+17,519,568,Meiji Restoration Mystery Tour: Decipher Chapter,08/12/08,https://www.detectiveconanworld.com/wiki/Meiji Restoration Mystery Tour: Decipher Chapter
+17,520,569,Red Wine Indictment,15/12/08,https://www.detectiveconanworld.com/wiki/Red Wine Indictment
+17,521,570-571,"Murderer, Shinichi Kudo (1 Hour Special)",19/01/09,"https://www.detectiveconanworld.com/wiki/Murderer, Shinichi Kudo (1 Hour Special)"
+17,522,572-573,Shinichi's True Face and Ran's Tears (1 Hour Special),26/01/09,https://www.detectiveconanworld.com/wiki/Shinichi's True Face and Ran's Tears (1 Hour Special)
+17,523,574,What She Truly Wants to Ask,02/02/09,https://www.detectiveconanworld.com/wiki/What She Truly Wants to Ask
+17,524,575,The Blue Spark of Hate (Part 1),09/02/09,https://www.detectiveconanworld.com/wiki/The Blue Spark of Hate
+17,525,576,The Blue Spark of Hate (Part 2),16/02/09,https://www.detectiveconanworld.com/wiki/The Blue Spark of Hate
+17,526,577,A Present from the True Culprit,23/02/09,https://www.detectiveconanworld.com/wiki/A Present from the True Culprit
+17,527,578,The Malice Hidden Behind the Masque,02/03/09,https://www.detectiveconanworld.com/wiki/The Malice Hidden Behind the Masque
+18,528,579,Might Over Mystery (Part 1),09/03/09,https://www.detectiveconanworld.com/wiki/Might Over Mystery
+18,529,580,Might Over Mystery (Part 2),16/03/09,https://www.detectiveconanworld.com/wiki/Might Over Mystery
+18,530,581,The Truth Behind the Urban Legend (Part 1),18/04/09,https://www.detectiveconanworld.com/wiki/The Truth Behind the Urban Legend
+18,531,582,The Truth Behind the Urban Legend (Part 2),25/04/09,https://www.detectiveconanworld.com/wiki/The Truth Behind the Urban Legend
+18,532,583,The Scar of First Love,02/05/09,https://www.detectiveconanworld.com/wiki/The Scar of First Love
+18,533,584,The Scar that Evokes the Past,09/05/09,https://www.detectiveconanworld.com/wiki/The Scar that Evokes the Past
+18,534,585,The New Scar and the Whistling Man,16/05/09,https://www.detectiveconanworld.com/wiki/The New Scar and the Whistling Man
+18,535,586,An Old Scar and the Detective's Spirit,23/05/09,https://www.detectiveconanworld.com/wiki/An Old Scar and the Detective's Spirit
+18,536,587,The Secret of the Vanished Masterpiece,30/05/09,https://www.detectiveconanworld.com/wiki/The Secret of the Vanished Masterpiece
+18,537,588,Kaitou Kid vs. the Strongest Safe (Part 1),13/06/09,https://www.detectiveconanworld.com/wiki/Kaitou Kid vs. the Strongest Safe
+18,538,589,Kaitou Kid vs. the Strongest Safe (Part 2),20/06/09,https://www.detectiveconanworld.com/wiki/Kaitou Kid vs. the Strongest Safe
+18,539,590,A Fool's Inheritance,04/07/09,https://www.detectiveconanworld.com/wiki/A Fool's Inheritance
+18,540,591,The Day Kogoro Mouri Ceased Being a Detective (Part 1),11/07/09,https://www.detectiveconanworld.com/wiki/The Day Kogoro Mouri Ceased Being a Detective
+18,541,592,The Day Kogoro Mouri Ceased Being a Detective (Part 2),18/07/09,https://www.detectiveconanworld.com/wiki/The Day Kogoro Mouri Ceased Being a Detective
+18,542,593,Ikkaku Rock's Disappearing Fish (Part 1),25/07/09,https://www.detectiveconanworld.com/wiki/Ikkaku Rock's Disappearing Fish
+18,543,594,Ikkaku Rock's Disappearing Fish (Part 2),01/08/09,https://www.detectiveconanworld.com/wiki/Ikkaku Rock's Disappearing Fish
+18,544,595,The Hand That Plays in Dissonance,08/08/09,https://www.detectiveconanworld.com/wiki/The Hand That Plays in Dissonance
+18,545,596,The Witch Enshrouded by Fog (Part 1),05/09/09,https://www.detectiveconanworld.com/wiki/The Witch Enshrouded by Fog
+18,546,597,The Witch Enshrouded by Fog (Part 2),12/09/09,https://www.detectiveconanworld.com/wiki/The Witch Enshrouded by Fog
+18,547,598,Two Days with the Culprit (First Day),19/09/09,https://www.detectiveconanworld.com/wiki/Two Days with the Culprit (First Day)
+18,548,599,Two Days with the Culprit (Second Day),26/09/09,https://www.detectiveconanworld.com/wiki/Two Days with the Culprit (Second Day)
+18,549,600,The Revolving Sushi Mystery (Part 1),03/10/09,https://www.detectiveconanworld.com/wiki/The Revolving Sushi Mystery
+18,550,601,The Revolving Sushi Mystery (Part 2),10/10/09,https://www.detectiveconanworld.com/wiki/The Revolving Sushi Mystery
+18,551,602,The Culprit is Genta's Dad (Part 1),17/10/09,https://www.detectiveconanworld.com/wiki/The Culprit is Genta's Dad
+18,552,603,The Culprit is Genta's Dad (Part 2),24/10/09,https://www.detectiveconanworld.com/wiki/The Culprit is Genta's Dad
+18,553,604,The Interrogation Room,31/10/09,https://www.detectiveconanworld.com/wiki/The Interrogation Room
+18,554,605,Stork Mystery Tour (Ran's Search Chapter),07/11/09,https://www.detectiveconanworld.com/wiki/Stork Mystery Tour (Ran's Search Chapter)
+18,555,606,Stork Mystery Tour (Haruna's Pursuit Chapter),14/11/09,https://www.detectiveconanworld.com/wiki/Stork Mystery Tour (Haruna's Pursuit Chapter)
+18,556,607,Intersection of Fear,21/11/09,https://www.detectiveconanworld.com/wiki/Intersection of Fear
+18,557,608,A Dangerous Party of Two,28/11/09,https://www.detectiveconanworld.com/wiki/A Dangerous Party of Two
+18,558,609,The Mansion of Death and the Red Wall (Three Visits),05/12/09,https://www.detectiveconanworld.com/wiki/The Mansion of Death and the Red Wall (Three Visits)
+18,559,610,The Mansion of Death and the Red Wall (Item in Hand),12/12/09,https://www.detectiveconanworld.com/wiki/The Mansion of Death and the Red Wall (Item in Hand)
+18,560,611,The Mansion of Death and the Red Wall (The Late Komei),19/12/09,https://www.detectiveconanworld.com/wiki/The Mansion of Death and the Red Wall (The Late Komei)
+18,561,612,The Mansion of Death and the Red Wall (Empty Fort Strategy),26/12/09,https://www.detectiveconanworld.com/wiki/The Mansion of Death and the Red Wall (Empty Fort Strategy)
+18,562,613,Rainbow Color Kidnapping,16/01/10,https://www.detectiveconanworld.com/wiki/Rainbow Color Kidnapping
+18,563,614,Detective Boys vs. Robber Group (Turmoil),23/01/10,https://www.detectiveconanworld.com/wiki/Detective Boys vs. Robber Group (Turmoil)
+18,564,615,Detective Boys vs. Robber Group (Silence),30/01/10,https://www.detectiveconanworld.com/wiki/Detective Boys vs. Robber Group (Silence)
+18,565,616,The Eyewitness Who Did Not See,06/02/10,https://www.detectiveconanworld.com/wiki/The Eyewitness Who Did Not See
+19,566,617,The Partner is Santa-san,27/02/10,https://www.detectiveconanworld.com/wiki/The Partner is Santa-san
+19,567,618,Murderous Intent Raining on an Outdoor Spa,06/03/10,https://www.detectiveconanworld.com/wiki/Murderous Intent Raining on an Outdoor Spa
+19,568,619,"Inspector Shiratori, Memories of the Cherry Blossom (Part 1)",13/03/10,"https://www.detectiveconanworld.com/wiki/Inspector Shiratori, Memories of the Cherry Blossom"
+19,569,620,"Inspector Shiratori, Memories of the Cherry Blossom (Part 2)",20/03/10,"https://www.detectiveconanworld.com/wiki/Inspector Shiratori, Memories of the Cherry Blossom"
+19,570,621,The Crime with Zero Possibility to be Proven,27/03/10,https://www.detectiveconanworld.com/wiki/The Crime with Zero Possibility to be Proven
+19,571,622,Battle of the Haunted Warehouse's Treasure (Part 1),01/05/10,https://www.detectiveconanworld.com/wiki/Battle of the Haunted Warehouse's Treasure
+19,572,623,Battle of the Haunted Warehouse's Treasure (Part 2),08/05/10,https://www.detectiveconanworld.com/wiki/Battle of the Haunted Warehouse's Treasure
+19,573,624,The Whereabouts of the Embarrassing Charm (Part 1),15/05/10,https://www.detectiveconanworld.com/wiki/The Whereabouts of the Embarrassing Charm
+19,574,625,The Whereabouts of the Embarrassing Charm (Part 2),22/05/10,https://www.detectiveconanworld.com/wiki/The Whereabouts of the Embarrassing Charm
+19,575,626,The Alibi of the Black Dress (Part 1),29/05/10,https://www.detectiveconanworld.com/wiki/The Alibi of the Black Dress
+19,576,627,The Alibi of the Black Dress (Part 2),05/06/10,https://www.detectiveconanworld.com/wiki/The Alibi of the Black Dress
+19,577,628,The Truth Lit Up By the Fireflies,19/06/10,https://www.detectiveconanworld.com/wiki/The Truth Lit Up By the Fireflies
+19,578,629,The Crisis Beckoned by the Red Omen,26/06/10,https://www.detectiveconanworld.com/wiki/The Crisis Beckoned by the Red Omen
+19,579,630,The Suggestion of Black Thirteen,03/07/10,https://www.detectiveconanworld.com/wiki/The Suggestion of Black Thirteen
+19,580,631,The Black Time Limit Drawing Near,10/07/10,https://www.detectiveconanworld.com/wiki/The Black Time Limit Drawing Near
+19,581,632,The Red Shaking Target,17/07/10,https://www.detectiveconanworld.com/wiki/The Red Shaking Target
+19,582,634,The Night the Zombie Died,24/07/10,https://www.detectiveconanworld.com/wiki/The Night the Zombie Died
+19,583,634,Kobayashi-sensei's Love,14/08/10,https://www.detectiveconanworld.com/wiki/Kobayashi-sensei's Love
+19,584,635,Inspector Shiratori's Lost Love,21/08/10,https://www.detectiveconanworld.com/wiki/Inspector Shiratori's Lost Love
+19,585,636,Timeless Sakura's Love,28/08/10,https://www.detectiveconanworld.com/wiki/Timeless Sakura's Love
+19,586,637,The Kirin's Horn That Vanished into the Dark,04/09/10,https://www.detectiveconanworld.com/wiki/The Kirin's Horn That Vanished into the Dark
+19,587,638,Kid vs. the Four Divine Detective Boys,11/09/10,https://www.detectiveconanworld.com/wiki/Kid vs. the Four Divine Detective Boys
+19,588,639,The Trap of the Rooftop Farm,18/09/10,https://www.detectiveconanworld.com/wiki/The Trap of the Rooftop Farm
+19,589,640,The Worst Birthday (Part 1),25/09/10,https://www.detectiveconanworld.com/wiki/The Worst Birthday
+19,590,641,The Worst Birthday (Part 2),02/10/10,https://www.detectiveconanworld.com/wiki/The Worst Birthday
+19,591,642,The House with the Aquarium,16/10/10,https://www.detectiveconanworld.com/wiki/The House with the Aquarium
+19,592,643,The Detective Memoir of Monkey and Rake (Part 1),23/10/10,https://www.detectiveconanworld.com/wiki/The Detective Memoir of Monkey and Rake
+19,593,644,The Detective Memoir of Monkey and Rake (Part 2),30/10/10,https://www.detectiveconanworld.com/wiki/The Detective Memoir of Monkey and Rake
+19,594,645,The Seven Wonders of the Hiroshima Miyajima Tour (Miyajima Part),06/11/10,https://www.detectiveconanworld.com/wiki/The Seven Wonders of the Hiroshima Miyajima Tour (Miyajima Part)
+19,595,646,The Seven Wonders of the Hiroshima Miyajima Tour (Hiroshima Part),11/11/10,https://www.detectiveconanworld.com/wiki/The Seven Wonders of the Hiroshima Miyajima Tour (Hiroshima Part)
+19,596,647,The Alibi of the Fall,18/11/10,https://www.detectiveconanworld.com/wiki/The Alibi of the Fall
+19,597,648,The Scenario of the Steaming Locked Room (Part 1),27/11/10,https://www.detectiveconanworld.com/wiki/The Scenario of the Steaming Locked Room
+19,598,649,The Scenario of the Steaming Locked Room (Part 2),04/12/10,https://www.detectiveconanworld.com/wiki/The Scenario of the Steaming Locked Room
+19,599,650,A Friend of Justice,11/12/10,https://www.detectiveconanworld.com/wiki/A Friend of Justice
+19,600,651,The Dream the Kappa Saw (Part 1),25/12/10,https://www.detectiveconanworld.com/wiki/The Dream the Kappa Saw
+19,601,652,The Dream the Kappa Saw (Part 2),01/01/11,https://www.detectiveconanworld.com/wiki/The Dream the Kappa Saw
+19,602,653,The Devil Hidden in the Tennis Court,08/01/11,https://www.detectiveconanworld.com/wiki/The Devil Hidden in the Tennis Court
+19,603,654,The Séance's Double Locked Room Mystery Case (First Locked Room),29/01/11,https://www.detectiveconanworld.com/wiki/The Séance's Double Locked Room Mystery Case (First Locked Room)
+19,604,655,The Séance's Double Locked Room Mystery Case (Second Locked Room),05/02/11,https://www.detectiveconanworld.com/wiki/The Séance's Double Locked Room Mystery Case (Second Locked Room)
+19,605,656,The Séance's Double Locked Room Mystery Case (Opened Locked Room),12/02/11,https://www.detectiveconanworld.com/wiki/The Séance's Double Locked Room Mystery Case (Opened Locked Room)
+20,606,657,Courtroom Confrontation IV: Juror Sumiko Kobayashi (Part 1),19/02/11,https://www.detectiveconanworld.com/wiki/Courtroom Confrontation IV: Juror Sumiko Kobayashi
+20,607,658,Courtroom Confrontation IV: Juror Sumiko Kobayashi (Part 2),26/02/11,https://www.detectiveconanworld.com/wiki/Courtroom Confrontation IV: Juror Sumiko Kobayashi
+20,608,659,White Day of Betrayal (Part 1),05/03/11,https://www.detectiveconanworld.com/wiki/White Day of Betrayal
+20,609,660,White Day of Betrayal (Part 2),19/03/11,https://www.detectiveconanworld.com/wiki/White Day of Betrayal
+20,610,661,The Victim is Shinichi Kudo,09/04/11,https://www.detectiveconanworld.com/wiki/The Victim is Shinichi Kudo
+20,611,662,"Inubushi Castle, The Ablazed Demon Dog (Will-o'-The-Wisp Chapter)",16/04/11,"https://www.detectiveconanworld.com/wiki/Inubushi Castle, The Ablazed Demon Dog (Will-o'-The-Wisp Chapter)"
+20,612,663,"Inubushi Castle, The Ablazed Demon Dog (Footsteps Chapter)",23/04/11,"https://www.detectiveconanworld.com/wiki/Inubushi Castle, The Ablazed Demon Dog (Footsteps Chapter)"
+20,613,664,"Inubushi Castle, The Ablazed Demon Dog (Chapter of Princess)",30/04/11,"https://www.detectiveconanworld.com/wiki/Inubushi Castle, The Ablazed Demon Dog (Chapter of Princess)"
+20,614,665,The Secret Played by the Diary (Part 1),07/05/11,https://www.detectiveconanworld.com/wiki/The Secret Played by the Diary
+20,615,666,The Secret Played by the Diary (Part 2),14/05/11,https://www.detectiveconanworld.com/wiki/The Secret Played by the Diary
+20,616,667,Holmes' Revelation (Holmes' Apprentice),21/05/11,https://www.detectiveconanworld.com/wiki/Holmes' Revelation (Holmes' Apprentice)
+20,617,668,Holmes' Revelation (Love is 0),28/05/11,https://www.detectiveconanworld.com/wiki/Holmes' Revelation (Love is 0)
+20,618,669,Holmes' Revelation (Satan),04/06/11,https://www.detectiveconanworld.com/wiki/Holmes' Revelation (Satan)
+20,619,670,Holmes' Revelation (Code Break),11/06/11,https://www.detectiveconanworld.com/wiki/Holmes' Revelation (Code Break)
+20,620,671,Holmes' Revelation (Grass Court Queen),18/06/11,https://www.detectiveconanworld.com/wiki/Holmes' Revelation (Grass Court Queen)
+20,621,672,Holmes' Revelation (0 is Start),25/06/11,https://www.detectiveconanworld.com/wiki/Holmes' Revelation (0 is Start)
+20,622,673,Emergency Situation 252 (Part 1),02/07/11,https://www.detectiveconanworld.com/wiki/Emergency Situation 252
+20,623,674,Emergency Situation 252 (Part 2),09/07/11,https://www.detectiveconanworld.com/wiki/Emergency Situation 252
+20,624,675,A Video Letter of First Love,16/07/11,https://www.detectiveconanworld.com/wiki/A Video Letter of First Love
+20,625,676,The Screaming Operation Room (Part 1),23/07/11,https://www.detectiveconanworld.com/wiki/The Screaming Operation Room
+20,626,677,The Screaming Operation Room (Part 2),30/07/11,https://www.detectiveconanworld.com/wiki/The Screaming Operation Room
+20,627,678,Conan & Kid's Battle For Ryoma's Treasure (Part 1),20/08/11,https://www.detectiveconanworld.com/wiki/Conan & Kid's Battle For Ryoma's Treasure
+20,628,679,Conan & Kid's Battle For Ryoma's Treasure (Part 2),27/08/11,https://www.detectiveconanworld.com/wiki/Conan & Kid's Battle For Ryoma's Treasure
+20,629,680,The Promo Video Shooting Case (Part 1),03/09/11,https://www.detectiveconanworld.com/wiki/The Promo Video Shooting Case
+20,630,681,The Promo Video Shooting Case (Part 2),10/09/11,https://www.detectiveconanworld.com/wiki/The Promo Video Shooting Case
+20,631,682,What the Flower Clock Knew,17/09/11,https://www.detectiveconanworld.com/wiki/What the Flower Clock Knew
+20,632,683,The Guardian of Time's Sword (Part 1),01/10/11,https://www.detectiveconanworld.com/wiki/The Guardian of Time's Sword
+20,633,684,The Guardian of Time's Sword (Part 2),08/10/11,https://www.detectiveconanworld.com/wiki/The Guardian of Time's Sword
+20,634,685,The Super Narrow Shop Crime Scene,15/10/11,https://www.detectiveconanworld.com/wiki/The Super Narrow Shop Crime Scene
+20,635,686,Beware of Dieting,05/11/11,https://www.detectiveconanworld.com/wiki/Beware of Dieting
+20,636,687,The Most Useful School in the World Case (Part 1),12/11/11,https://www.detectiveconanworld.com/wiki/The Most Useful School in the World Case
+20,637,688,The Most Useful School in the World Case (Part 2),19/11/11,https://www.detectiveconanworld.com/wiki/The Most Useful School in the World Case
+20,638,689,Solving Mysteries at the Red Leaf Palace (Part 1),26/11/11,https://www.detectiveconanworld.com/wiki/Solving Mysteries at the Red Leaf Palace
+20,639,690,Solving Mysteries at the Red Leaf Palace (Part 2),03/12/11,https://www.detectiveconanworld.com/wiki/Solving Mysteries at the Red Leaf Palace
+20,640,691,The Memory Trip of the Eight Sketches (Okayama Part),10/12/11,https://www.detectiveconanworld.com/wiki/The Memory Trip of the Eight Sketches (Okayama Part)
+20,641,692,The Memory Trip of the Eight Sketches (Kurashiki Part),17/12/11,https://www.detectiveconanworld.com/wiki/The Memory Trip of the Eight Sketches (Kurashiki Part)
+20,642,693,Grabbing Karuta Cards in Dire Straits (Part 1),07/01/12,https://www.detectiveconanworld.com/wiki/Grabbing Karuta Cards in Dire Straits
+20,643,694,Grabbing Karuta Cards in Dire Straits (Part 2),14/01/12,https://www.detectiveconanworld.com/wiki/Grabbing Karuta Cards in Dire Straits
+20,644,695,"Ramen So Good, It's to Die For (Part 1)",04/02/12,"https://www.detectiveconanworld.com/wiki/Ramen So Good, It's to Die For"
+20,645,696,"Ramen So Good, It's to Die For (Part 2)",11/02/12,"https://www.detectiveconanworld.com/wiki/Ramen So Good, It's to Die For"
+21,646,697,Deduction Showdown at the Haunted Hotel (Part 1),18/02/12,https://www.detectiveconanworld.com/wiki/Deduction Showdown at the Haunted Hotel
+21,647,698,Deduction Showdown at the Haunted Hotel (Part 2),25/02/12,https://www.detectiveconanworld.com/wiki/Deduction Showdown at the Haunted Hotel
+21,648,699,The Case of the Besieged Detective Agency (Outbreak),03/03/12,https://www.detectiveconanworld.com/wiki/The Case of the Besieged Detective Agency (Outbreak)
+21,649,700,The Case of the Besieged Detective Agency (Sniping),10/03/12,https://www.detectiveconanworld.com/wiki/The Case of the Besieged Detective Agency (Sniping)
+21,650,701,The Case of the Besieged Detective Agency (Release),17/03/12,https://www.detectiveconanworld.com/wiki/The Case of the Besieged Detective Agency (Release)
+21,651,702-703,"Conan vs. Heiji, Deduction Battle Between the Detectives of the East and West (1 Hour Special)",24/03/12,"https://www.detectiveconanworld.com/wiki/Conan vs. Heiji, Deduction Battle Between the Detectives of the East and West (1 Hour Special)"
+21,652,704,The Design of Poison and Mirage (EYE),21/04/12,https://www.detectiveconanworld.com/wiki/The Design of Poison and Mirage (EYE)
+21,653,705,The Design of Poison and Mirage (S),28/04/12,https://www.detectiveconanworld.com/wiki/The Design of Poison and Mirage (S)
+21,654,706,The Design of Poison and Mirage (Poison),05/05/12,https://www.detectiveconanworld.com/wiki/The Design of Poison and Mirage (Poison)
+21,655,707,The Design of Poison and Mirage (Illusion),12/05/12,https://www.detectiveconanworld.com/wiki/The Design of Poison and Mirage (Illusion)
+21,656,708,The Professor's Video Site (Part 1),19/05/12,https://www.detectiveconanworld.com/wiki/The Professor's Video Site
+21,657,709,The Professor's Video Site (Part 2),26/05/12,https://www.detectiveconanworld.com/wiki/The Professor's Video Site
+21,658,710,The Hot Chocolate Trap,02/06/12,https://www.detectiveconanworld.com/wiki/The Hot Chocolate Trap
+21,659,711,Co-Investigating with a First Love (Part 1),09/06/12,https://www.detectiveconanworld.com/wiki/Co-Investigating with a First Love
+21,660,712,Co-Investigating with a First Love (Part 2),16/06/12,https://www.detectiveconanworld.com/wiki/Co-Investigating with a First Love
+21,661,713,Kogoro-san is a Good Man (Part 1),23/06/12,https://www.detectiveconanworld.com/wiki/Kogoro-san is a Good Man
+21,662,714,Kogoro-san is a Good Man (Part 2),30/06/12,https://www.detectiveconanworld.com/wiki/Kogoro-san is a Good Man
+21,663,715,Chase the Miyama Stag Beetle,07/07/12,https://www.detectiveconanworld.com/wiki/Chase the Miyama Stag Beetle
+21,664,716,The Great Dog Coeur's Triumph 2,14/07/12,https://www.detectiveconanworld.com/wiki/The Great Dog Coeur's Triumph 2
+21,665,717,The Suspicious Initial K,21/07/12,https://www.detectiveconanworld.com/wiki/The Suspicious Initial K
+21,666,718,The Rainy Night Menace,28/07/12,https://www.detectiveconanworld.com/wiki/The Rainy Night Menace
+21,667,719,Wedding Eve (Part 1),01/09/12,https://www.detectiveconanworld.com/wiki/Wedding Eve
+21,668,720,Wedding Eve (Part 2),08/09/12,https://www.detectiveconanworld.com/wiki/Wedding Eve
+21,669,721,The Dark Tower's Hidden Treasure (Part 1),15/09/12,https://www.detectiveconanworld.com/wiki/The Dark Tower's Hidden Treasure
+21,670,722,The Dark Tower's Hidden Treasure (Part 2),22/09/12,https://www.detectiveconanworld.com/wiki/The Dark Tower's Hidden Treasure
+21,671,723,Detectives' Nocturne (The Case),06/10/12,https://www.detectiveconanworld.com/wiki/Detectives' Nocturne (The Case)
+21,672,724,Detectives' Nocturne (Kidnapping),13/10/12,https://www.detectiveconanworld.com/wiki/Detectives' Nocturne (Kidnapping)
+21,673,725,Detectives' Nocturne (Deduction),20/10/12,https://www.detectiveconanworld.com/wiki/Detectives' Nocturne (Deduction)
+21,674,726,Detectives' Nocturne (Bourbon),27/10/12,https://www.detectiveconanworld.com/wiki/Detectives' Nocturne (Bourbon)
+21,675,727,Won't Forgive Even One Millimeter (Part 1),10/11/12,https://www.detectiveconanworld.com/wiki/Won't Forgive Even One Millimeter
+21,676,728,Won't Forgive Even One Millimeter (Part 2),17/11/12,https://www.detectiveconanworld.com/wiki/Won't Forgive Even One Millimeter
+21,677,729,The Footprintless Beach,24/11/12,https://www.detectiveconanworld.com/wiki/The Footprintless Beach
+21,678,730,Nagasaki Mystery Theatre (End of the Edo),01/12/12,https://www.detectiveconanworld.com/wiki/Nagasaki Mystery Theatre (End of the Edo)
+21,679,731,Nagasaki Mystery Theatre (Modern Time),08/12/12,https://www.detectiveconanworld.com/wiki/Nagasaki Mystery Theatre (Modern Time)
+21,680,732,Cactus Capriccio,15/12/12,https://www.detectiveconanworld.com/wiki/Cactus Capriccio
+22,681,733,The Life-Threatening Broadcast of Love (Begin Broadcasting),05/01/13,https://www.detectiveconanworld.com/wiki/The Life-Threatening Broadcast of Love (Begin Broadcasting)
+22,682,734,The Life-Threatening Broadcast of Love (Desperate Situation),12/01/13,https://www.detectiveconanworld.com/wiki/The Life-Threatening Broadcast of Love (Desperate Situation)
+22,683,735,The Life-Threatening Broadcast of Love (Enter the Scene),19/01/13,https://www.detectiveconanworld.com/wiki/The Life-Threatening Broadcast of Love (Enter the Scene)
+22,684,736,"Froth, Steam, and Smoke (Part 1)",26/01/13,"https://www.detectiveconanworld.com/wiki/Froth, Steam, and Smoke"
+22,685,737,"Froth, Steam, and Smoke (Part 2)",02/02/13,"https://www.detectiveconanworld.com/wiki/Froth, Steam, and Smoke"
+22,686,738,A Car Carrying a Time Bomb,09/02/13,https://www.detectiveconanworld.com/wiki/A Car Carrying a Time Bomb
+22,687,739,The Unsolvable Ice Trap,16/02/13,https://www.detectiveconanworld.com/wiki/The Unsolvable Ice Trap
+22,688,740,Detective Takagi Finds 30 Million Yen,23/02/13,https://www.detectiveconanworld.com/wiki/Detective Takagi Finds 30 Million Yen
+22,689,741,The Client's Message,02/03/13,https://www.detectiveconanworld.com/wiki/The Client's Message
+22,690,742,Yusaku Kudo's Cold Case (Part 1),09/03/13,https://www.detectiveconanworld.com/wiki/Yusaku Kudo's Cold Case
+22,691,743,Yusaku Kudo's Cold Case (Part 2),16/03/13,https://www.detectiveconanworld.com/wiki/Yusaku Kudo's Cold Case
+22,692,744,The Evening Cherry Blossom Viewing Route on Sumida River (Part 1),23/03/13,https://www.detectiveconanworld.com/wiki/The Evening Cherry Blossom Viewing Route on Sumida River
+22,693,745,The Evening Cherry Blossom Viewing Route on Sumida River (Part 2),30/03/13,https://www.detectiveconanworld.com/wiki/The Evening Cherry Blossom Viewing Route on Sumida River
+22,694,746,The Missing Sweets in the Old Shop,20/04/13,https://www.detectiveconanworld.com/wiki/The Missing Sweets in the Old Shop
+22,695,747,The Roses in the Vineyard,27/04/13,https://www.detectiveconanworld.com/wiki/The Roses in the Vineyard
+22,696,748,The Flowerbed Vandal's Scheme,04/05/13,https://www.detectiveconanworld.com/wiki/The Flowerbed Vandal's Scheme
+22,697,749,The Window at the Girls' School,11/05/13,https://www.detectiveconanworld.com/wiki/The Window at the Girls' School
+22,698,750,Unbelievable! The Case of the Crashed UFO,18/05/13,https://www.detectiveconanworld.com/wiki/Unbelievable! The Case of the Crashed UFO
+22,699,751,The Shadow Approaching Haibara's Secret (Part 1),08/06/13,https://www.detectiveconanworld.com/wiki/The Shadow Approaching Haibara's Secret
+22,700,752,The Shadow Approaching Haibara's Secret (Part 2),15/06/13,https://www.detectiveconanworld.com/wiki/The Shadow Approaching Haibara's Secret
+22,701,753,The Jet-Black Mystery Train (Departure),13/07/13,https://www.detectiveconanworld.com/wiki/The Jet-Black Mystery Train (Departure)
+22,702,754,The Jet-Black Mystery Train (Tunnel),20/07/13,https://www.detectiveconanworld.com/wiki/The Jet-Black Mystery Train (Tunnel)
+22,703,755,The Jet-Black Mystery Train (Intersection),27/07/13,https://www.detectiveconanworld.com/wiki/The Jet-Black Mystery Train (Intersection)
+22,704,756,The Jet-Black Mystery Train (Destination),03/08/13,https://www.detectiveconanworld.com/wiki/The Jet-Black Mystery Train (Destination)
+22,705,757,Conan in a Locked Room,10/08/13,https://www.detectiveconanworld.com/wiki/Conan in a Locked Room
+22,706,758,Bourbon Figures It Out,17/08/13,https://www.detectiveconanworld.com/wiki/Bourbon Figures It Out
+22,707,759,The Framed Great Detective,31/08/13,https://www.detectiveconanworld.com/wiki/The Framed Great Detective
+22,708,760,The Man Who Fell Slowly,07/09/13,https://www.detectiveconanworld.com/wiki/The Man Who Fell Slowly
+22,709,761,An Unconfirmed Shocking Case,14/09/13,https://www.detectiveconanworld.com/wiki/An Unconfirmed Shocking Case
+22,710,762,Everyone Saw (Part 1),21/09/13,https://www.detectiveconanworld.com/wiki/Everyone Saw
+22,711,763,Everyone Saw (Part 2),28/09/13,https://www.detectiveconanworld.com/wiki/Everyone Saw
+22,712,764,Heiji Hattori and the Vampire Mansion (1),05/10/13,https://www.detectiveconanworld.com/wiki/Heiji Hattori and the Vampire Mansion (1)
+22,713,765,Heiji Hattori and the Vampire Mansion (2),12/10/13,https://www.detectiveconanworld.com/wiki/Heiji Hattori and the Vampire Mansion (2)
+22,714,766,Heiji Hattori and the Vampire Mansion (3),19/10/13,https://www.detectiveconanworld.com/wiki/Heiji Hattori and the Vampire Mansion (3)
+22,715,767,Heiji Hattori and the Vampire Mansion (4),26/10/13,https://www.detectiveconanworld.com/wiki/Heiji Hattori and the Vampire Mansion (4)
+23,716,768,Dancing Demon at the Noh Mask Mansion (Part 1),02/11/13,https://www.detectiveconanworld.com/wiki/Dancing Demon at the Noh Mask Mansion
+23,717,769,Dancing Demon at the Noh Mask Mansion (Part 2),09/11/13,https://www.detectiveconanworld.com/wiki/Dancing Demon at the Noh Mask Mansion
+23,718,770,The Devil's Circuit,16/11/13,https://www.detectiveconanworld.com/wiki/The Devil's Circuit
+23,719,771,A Dispute Over a Platinum Ticket,23/11/13,https://www.detectiveconanworld.com/wiki/A Dispute Over a Platinum Ticket
+23,720,772,Fire and Water Mystery Tour (Aso Part),30/11/13,https://www.detectiveconanworld.com/wiki/Fire and Water Mystery Tour (Aso Part)
+23,721,773,Fire and Water Mystery Tour (Kumamoto Part),07/12/13,https://www.detectiveconanworld.com/wiki/Fire and Water Mystery Tour (Kumamoto Part)
+23,722,774,Sweet and Cold Delivery Service (Part 1),14/12/13,https://www.detectiveconanworld.com/wiki/Sweet and Cold Delivery Service
+23,723,775,Sweet and Cold Delivery Service (Part 2),21/12/13,https://www.detectiveconanworld.com/wiki/Sweet and Cold Delivery Service
+23,724,776,Kaitou Kid and the Blush Mermaid (Part 1),04/01/14,https://www.detectiveconanworld.com/wiki/Kaitou Kid and the Blush Mermaid
+23,725,777,Kaitou Kid and the Blush Mermaid (Part 2),11/01/14,https://www.detectiveconanworld.com/wiki/Kaitou Kid and the Blush Mermaid
+23,726,778,A Happy E-mail Brings Sadness,18/01/14,https://www.detectiveconanworld.com/wiki/A Happy E-mail Brings Sadness
+23,727,779,The Treasure Chest Filled with Fruits (Part 1),25/01/14,https://www.detectiveconanworld.com/wiki/The Treasure Chest Filled with Fruits
+23,728,780,The Treasure Chest Filled with Fruits (Part 2),01/02/14,https://www.detectiveconanworld.com/wiki/The Treasure Chest Filled with Fruits
+23,729,781,"The Diamond, the Painting, and the Great Actress",08/02/14,"https://www.detectiveconanworld.com/wiki/The Diamond, the Painting, and the Great Actress"
+23,730,782,The Figure That Was Too Good,22/02/14,https://www.detectiveconanworld.com/wiki/The Figure That Was Too Good
+23,731,783,The Ex-Boyfriend Living Next to a Crime Scene (Part 1),01/03/14,https://www.detectiveconanworld.com/wiki/The Ex-Boyfriend Living Next to a Crime Scene
+23,732,784,The Ex-Boyfriend Living Next to a Crime Scene (Part 2),08/03/14,https://www.detectiveconanworld.com/wiki/The Ex-Boyfriend Living Next to a Crime Scene
+23,733,785,The Wedding Reception and the Two Gunshots,22/03/14,https://www.detectiveconanworld.com/wiki/The Wedding Reception and the Two Gunshots
+23,734,786-787,Jodie's Memories and the Cherry Blossom Viewing Trap (1 Hour Special),29/03/14,https://www.detectiveconanworld.com/wiki/Jodie's Memories and the Cherry Blossom Viewing Trap (1 Hour Special)
+23,735,788,The Coded Invitation,19/04/14,https://www.detectiveconanworld.com/wiki/The Coded Invitation
+23,736,789,The Secret of the Statue of Kogoro Mouri,26/04/14,https://www.detectiveconanworld.com/wiki/The Secret of the Statue of Kogoro Mouri
+23,737,790,The Suspicious Walking Path,03/05/14,https://www.detectiveconanworld.com/wiki/The Suspicious Walking Path
+23,738,791,Kogoro in the Bar (Part 1),10/05/14,https://www.detectiveconanworld.com/wiki/Kogoro in the Bar
+23,739,792,Kogoro in the Bar (Part 2),17/05/14,https://www.detectiveconanworld.com/wiki/Kogoro in the Bar
+24,740,793,Bathroom Where Ran Collapsed As Well (Part 1),31/05/14,https://www.detectiveconanworld.com/wiki/Bathroom Where Ran Collapsed As Well
+24,741,794,Bathroom Where Ran Collapsed As Well (Part 2),07/06/14,https://www.detectiveconanworld.com/wiki/Bathroom Where Ran Collapsed As Well
+24,742,795,Promise with a J-Leaguer,14/06/14,https://www.detectiveconanworld.com/wiki/Promise with a J-Leaguer
+24,743,796,Two Coincidental Successes,21/06/14,https://www.detectiveconanworld.com/wiki/Two Coincidental Successes
+24,744,797,The Suspect is Makoto Kyogoku (Part 1),28/06/14,https://www.detectiveconanworld.com/wiki/The Suspect is Makoto Kyogoku
+24,745,798,The Suspect is Makoto Kyogoku (Part 2),05/07/14,https://www.detectiveconanworld.com/wiki/The Suspect is Makoto Kyogoku
+24,746,799,Kaitou Kid VS Makoto Kyogoku (Part 1),19/07/14,https://www.detectiveconanworld.com/wiki/Kaitou Kid VS Makoto Kyogoku
+24,747,800,Kaitou Kid VS Makoto Kyogoku (Part 2),26/07/14,https://www.detectiveconanworld.com/wiki/Kaitou Kid VS Makoto Kyogoku
+24,748,801,Metropolitan Police Detective Love Story (Confession),02/08/14,https://www.detectiveconanworld.com/wiki/Metropolitan Police Detective Love Story (Confession)
+24,749,802,Metropolitan Police Detective Love Story (Truth),09/08/14,https://www.detectiveconanworld.com/wiki/Metropolitan Police Detective Love Story (Truth)
+24,750,803,The Man Betrayed by the Sea,06/09/14,https://www.detectiveconanworld.com/wiki/The Man Betrayed by the Sea
+24,751,804,The Beckoning Calico Cat Case (Part 1),20/09/14,https://www.detectiveconanworld.com/wiki/The Beckoning Calico Cat Case
+24,752,805,The Beckoning Calico Cat Case (Part 2),27/09/14,https://www.detectiveconanworld.com/wiki/The Beckoning Calico Cat Case
+24,753,806,The Blind Spot in the Share House,04/10/14,https://www.detectiveconanworld.com/wiki/The Blind Spot in the Share House
+24,754,807,The Tragedy of the Red Woman (Steam),11/10/14,https://www.detectiveconanworld.com/wiki/The Tragedy of the Red Woman (Steam)
+24,755,808,The Tragedy of the Red Woman (Evil Spirit),18/10/14,https://www.detectiveconanworld.com/wiki/The Tragedy of the Red Woman (Evil Spirit)
+24,756,809,The Tragedy of the Red Woman (Revenge),25/10/14,https://www.detectiveconanworld.com/wiki/The Tragedy of the Red Woman (Revenge)
+24,757,810,The Comedian Who Turned Himself In (Part 1),01/11/14,https://www.detectiveconanworld.com/wiki/The Comedian Who Turned Himself In
+24,758,811,The Comedian Who Turned Himself In (Part 2),08/11/14,https://www.detectiveconanworld.com/wiki/The Comedian Who Turned Himself In
+24,759,812,The Romance Novel with the Unexpected Conclusion (Part 1),22/11/14,https://www.detectiveconanworld.com/wiki/The Romance Novel with the Unexpected Conclusion
+24,760,813,The Romance Novel with the Unexpected Conclusion (Part 2),29/11/14,https://www.detectiveconanworld.com/wiki/The Romance Novel with the Unexpected Conclusion
+24,761,814,Kaga Hyakumangoku Mystery Tour (Kanazawa Part),06/12/14,https://www.detectiveconanworld.com/wiki/Kaga Hyakumangoku Mystery Tour (Kanazawa Part)
+24,762,815,Kaga Hyakumangoku Mystery Tour (Kaga Part),13/12/14,https://www.detectiveconanworld.com/wiki/Kaga Hyakumangoku Mystery Tour (Kaga Part)
+24,763,816,"Conan and Heiji, Code of Love (Part 1)",10/01/15,"https://www.detectiveconanworld.com/wiki/Conan and Heiji, Code of Love"
+24,764,817,"Conan and Heiji, Code of Love (Part 2)",17/01/15,"https://www.detectiveconanworld.com/wiki/Conan and Heiji, Code of Love"
+24,765,818,Teimuzu River Kite Flying Case (Part 1),24/01/15,https://www.detectiveconanworld.com/wiki/Teimuzu River Kite Flying Case
+24,766,819,Teimuzu River Kite Flying Case (Part 2),31/01/15,https://www.detectiveconanworld.com/wiki/Teimuzu River Kite Flying Case
+24,767,820,The Lover Gone Missing in a Snowstorm,07/02/15,https://www.detectiveconanworld.com/wiki/The Lover Gone Missing in a Snowstorm
+24,768,821,Ai Haibara Imprisonment Case,21/02/15,https://www.detectiveconanworld.com/wiki/Ai Haibara Imprisonment Case
+24,769,822,The Troublesome Emergency Patient,28/02/15,https://www.detectiveconanworld.com/wiki/The Troublesome Emergency Patient
+24,770,823,The Tense Tea Party (Part 1),07/03/15,https://www.detectiveconanworld.com/wiki/The Tense Tea Party
+24,771,824,The Tense Tea Party (Part 2),14/03/15,https://www.detectiveconanworld.com/wiki/The Tense Tea Party
+24,772,825,Shinichi Kudo's Aquarium Case (Part 1),21/03/15,https://www.detectiveconanworld.com/wiki/Shinichi Kudo's Aquarium Case
+24,773,826,Shinichi Kudo's Aquarium Case (Part 2),28/03/15,https://www.detectiveconanworld.com/wiki/Shinichi Kudo's Aquarium Case
+24,774,827,Munch's Missing Scream,18/04/15,https://www.detectiveconanworld.com/wiki/Munch's Missing Scream
+24,775,828,The Manipulated Great Detective (Part 1),25/04/15,https://www.detectiveconanworld.com/wiki/The Manipulated Great Detective
+24,776,829,The Manipulated Great Detective (Part 2),02/05/15,https://www.detectiveconanworld.com/wiki/The Manipulated Great Detective
+24,777,830,Detective Boys vs. Elderly Detective League,09/05/15,https://www.detectiveconanworld.com/wiki/Detective Boys vs. Elderly Detective League
+24,778,831,Mirage of the Disappearing Angel,16/05/15,https://www.detectiveconanworld.com/wiki/Mirage of the Disappearing Angel
+25,779,832,The Scarlet Prologue,30/05/15,https://www.detectiveconanworld.com/wiki/The Scarlet Prologue
+25,780,833,The Scarlet Pursuit,06/06/15,https://www.detectiveconanworld.com/wiki/The Scarlet Pursuit
+25,781,834,The Scarlet Intersection,13/06/15,https://www.detectiveconanworld.com/wiki/The Scarlet Intersection
+25,782,835,The Scarlet Return,20/06/15,https://www.detectiveconanworld.com/wiki/The Scarlet Return
+25,783,836,The Scarlet Truth,27/06/15,https://www.detectiveconanworld.com/wiki/The Scarlet Truth
+25,784,837,Welcome to Club Orihime,11/07/15,https://www.detectiveconanworld.com/wiki/Welcome to Club Orihime
+25,785,838,Taiko Meijin's Match of Love (Part 1),18/07/15,https://www.detectiveconanworld.com/wiki/Taiko Meijin's Match of Love
+25,786,839,Taiko Meijin's Match of Love (Part 2),25/07/15,https://www.detectiveconanworld.com/wiki/Taiko Meijin's Match of Love
+25,787,840,The Mystery Sinking in the Midsummer Pool (Part 1),01/08/15,https://www.detectiveconanworld.com/wiki/The Mystery Sinking in the Midsummer Pool
+25,788,841,The Mystery Sinking in the Midsummer Pool (Part 2),08/08/15,https://www.detectiveconanworld.com/wiki/The Mystery Sinking in the Midsummer Pool
+25,789,842,The Queen's Weather Forecast,15/08/15,https://www.detectiveconanworld.com/wiki/The Queen's Weather Forecast
+25,790,843,Bekapon's Bleeding Service,05/09/15,https://www.detectiveconanworld.com/wiki/Bekapon's Bleeding Service
+25,791,844,Detective Takagi On the Run in Handcuffs,12/09/15,https://www.detectiveconanworld.com/wiki/Detective Takagi On the Run in Handcuffs
+25,792,845,Three First Discoverers (Part 1),19/09/15,https://www.detectiveconanworld.com/wiki/Three First Discoverers
+25,793,846,Three First Discoverers (Part 2),26/09/15,https://www.detectiveconanworld.com/wiki/Three First Discoverers
+25,794,847,Bodyguard Kogoro Mouri,03/10/15,https://www.detectiveconanworld.com/wiki/Bodyguard Kogoro Mouri
+25,795,848,The Secret of the Missing Young Lady,10/10/15,https://www.detectiveconanworld.com/wiki/The Secret of the Missing Young Lady
+25,796,849,The Lovebirds' Ruse,17/10/15,https://www.detectiveconanworld.com/wiki/The Lovebirds' Ruse
+25,797,850,The Dreaming Girl's Confused Deduction,24/10/15,https://www.detectiveconanworld.com/wiki/The Dreaming Girl's Confused Deduction
+25,798,851,The Moving Target,07/11/15,https://www.detectiveconanworld.com/wiki/The Moving Target
+25,799,852,Detective Boys' Locked Room Mystery Battle,14/11/15,https://www.detectiveconanworld.com/wiki/Detective Boys' Locked Room Mystery Battle
+25,800,853,After That Hundred Million Yen,21/11/15,https://www.detectiveconanworld.com/wiki/After That Hundred Million Yen
+25,801,854,Tottori Sand Dunes Mystery Tour (Kurayoshi Part),28/11/15,https://www.detectiveconanworld.com/wiki/Tottori Sand Dunes Mystery Tour (Kurayoshi Part)
+25,802,855,Tottori Sand Dunes Mystery Tour (Tottori Part),05/12/15,https://www.detectiveconanworld.com/wiki/Tottori Sand Dunes Mystery Tour (Tottori Part)
+25,803,856,The Pitfall of Fire Precautions,12/12/15,https://www.detectiveconanworld.com/wiki/The Pitfall of Fire Precautions
+25,804,857-858,Conan and Ebizo's Kabuki Jūhachiban Mystery (Part 1) (1 Hour Special),09/01/16,https://www.detectiveconanworld.com/wiki/Conan and Ebizo's Kabuki Jūhachiban Mystery  (1 Hour Special)
+25,805,859-860,Conan and Ebizo's Kabuki Jūhachiban Mystery (Part 2) (1 Hour Special),16/01/16,https://www.detectiveconanworld.com/wiki/Conan and Ebizo's Kabuki Jūhachiban Mystery  (1 Hour Special)
+25,806,861,The Ventriloquist's Illusion (Part 1),30/01/16,https://www.detectiveconanworld.com/wiki/The Ventriloquist's Illusion
+25,807,862,The Ventriloquist's Illusion (Part 2),06/02/16,https://www.detectiveconanworld.com/wiki/The Ventriloquist's Illusion
+25,808,863,The Kamaitachi Inn (Part 1),13/02/16,https://www.detectiveconanworld.com/wiki/The Kamaitachi Inn
+25,809,864,The Kamaitachi Inn (Part 2),20/02/16,https://www.detectiveconanworld.com/wiki/The Kamaitachi Inn
+25,810,865,The Darkness of the Prefectural Police (Part 1),27/02/16,https://www.detectiveconanworld.com/wiki/The Darkness of the Prefectural Police
+25,811,866,The Darkness of the Prefectural Police (Part 2),05/03/16,https://www.detectiveconanworld.com/wiki/The Darkness of the Prefectural Police
+25,812,867,The Darkness of the Prefectural Police (Part 3),12/03/16,https://www.detectiveconanworld.com/wiki/The Darkness of the Prefectural Police
+25,813,868,The Shadow Approaching Amuro,16/04/16,https://www.detectiveconanworld.com/wiki/The Shadow Approaching Amuro
+25,814,869,The Actress Blogger's Locked Room Case (Part 1),23/04/16,https://www.detectiveconanworld.com/wiki/The Actress Blogger's Locked Room Case
+25,815,870,The Actress Blogger's Locked Room Case (Part 2),30/04/16,https://www.detectiveconanworld.com/wiki/The Actress Blogger's Locked Room Case
+25,816,871,The Disappointing and Kind Alien,07/05/16,https://www.detectiveconanworld.com/wiki/The Disappointing and Kind Alien
+25,817,872,The Missing Fiancée,14/05/16,https://www.detectiveconanworld.com/wiki/The Missing Fiancée
+26,818,-,Kogoro's Pursuit of Rage (Part 1),21/05/16,https://www.detectiveconanworld.com/wiki/Kogoro's Pursuit of Rage
+26,819,-,Kogoro's Pursuit of Rage (Part 2),28/05/16,https://www.detectiveconanworld.com/wiki/Kogoro's Pursuit of Rage
+26,820,-,The Seven People in the Waiting Room,04/06/16,https://www.detectiveconanworld.com/wiki/The Seven People in the Waiting Room
+26,821,-,The Hidden Secret of Dongaraji Temple,11/06/16,https://www.detectiveconanworld.com/wiki/The Hidden Secret of Dongaraji Temple
+26,822,-,The Suspects Are a Passionate Couple (Part 1),18/06/16,https://www.detectiveconanworld.com/wiki/The Suspects Are a Passionate Couple
+26,823,-,The Suspects Are a Passionate Couple (Part 2),25/06/16,https://www.detectiveconanworld.com/wiki/The Suspects Are a Passionate Couple
+26,824,-,The Detective Boys Get Out of the Rain,09/07/16,https://www.detectiveconanworld.com/wiki/The Detective Boys Get Out of the Rain
+26,825,-,The Tidal Park Comeback Case,16/07/16,https://www.detectiveconanworld.com/wiki/The Tidal Park Comeback Case
+26,826,-,"The Beauty, The Lies, and The Secrets",23/07/16,"https://www.detectiveconanworld.com/wiki/The Beauty, The Lies, and The Secrets"
+26,827,-,"Ramen So Good, It's to Die For 2 (Part 1)",30/07/16,"https://www.detectiveconanworld.com/wiki/Ramen So Good, It's to Die For 2"
+26,828,-,"Ramen So Good, It's to Die For 2 (Part 2)",06/08/16,"https://www.detectiveconanworld.com/wiki/Ramen So Good, It's to Die For 2"
+26,829,-,The Mysterious Boy,13/08/16,https://www.detectiveconanworld.com/wiki/The Mysterious Boy
+26,830,-,A Cottage Surrounded by Zombies (Part 1),03/09/16,https://www.detectiveconanworld.com/wiki/A Cottage Surrounded by Zombies
+26,831,-,A Cottage Surrounded by Zombies (Part 2),10/09/16,https://www.detectiveconanworld.com/wiki/A Cottage Surrounded by Zombies
+26,832,-,A Cottage Surrounded by Zombies (Part 3),17/09/16,https://www.detectiveconanworld.com/wiki/A Cottage Surrounded by Zombies
+26,833,-,The Great Detective's Weakness,24/09/16,https://www.detectiveconanworld.com/wiki/The Great Detective's Weakness
+26,834,-,The Man Who Died Twice (Part 1),01/10/16,https://www.detectiveconanworld.com/wiki/The Man Who Died Twice
+26,835,-,The Man Who Died Twice (Part 2),08/10/16,https://www.detectiveconanworld.com/wiki/The Man Who Died Twice
+26,836,-,The Unfriendly Girls Band (Part 1),15/10/16,https://www.detectiveconanworld.com/wiki/The Unfriendly Girls Band
+26,837,-,The Unfriendly Girls Band (Part 2),22/10/16,https://www.detectiveconanworld.com/wiki/The Unfriendly Girls Band
+26,838,-,Mysterious Case in a Hot Air Balloon,05/11/16,https://www.detectiveconanworld.com/wiki/Mysterious Case in a Hot Air Balloon
+26,839,-,You Can Hear The Tengu's Voice,12/11/16,https://www.detectiveconanworld.com/wiki/You Can Hear The Tengu's Voice
+26,840,-,The Last Gift,19/11/16,https://www.detectiveconanworld.com/wiki/The Last Gift
+26,841,-,The Rainy Bus Stop,26/11/16,https://www.detectiveconanworld.com/wiki/The Rainy Bus Stop
+26,842,-,Turning Point on a Driving Date,10/12/16,https://www.detectiveconanworld.com/wiki/Turning Point on a Driving Date
+26,843,-,The Detective Boys in a Grove (Part 1),17/12/16,https://www.detectiveconanworld.com/wiki/The Detective Boys in a Grove
+26,844,-,The Detective Boys in a Grove (Part 2),24/12/16,https://www.detectiveconanworld.com/wiki/The Detective Boys in a Grove
+26,845,-,Conan Cornered in the Darkness (Part 1),07/01/17,https://www.detectiveconanworld.com/wiki/Conan Cornered in the Darkness
+26,846,-,Conan Cornered in the Darkness (Part 2),14/01/17,https://www.detectiveconanworld.com/wiki/Conan Cornered in the Darkness
+26,847,-,Chiba's Difficult UFO Case (Part 1),28/01/17,https://www.detectiveconanworld.com/wiki/Chiba's Difficult UFO Case
+26,848,-,Chiba's Difficult UFO Case (Part 2),04/02/17,https://www.detectiveconanworld.com/wiki/Chiba's Difficult UFO Case
+26,849,-,The Marriage Registration's Password (Part 1),11/02/17,https://www.detectiveconanworld.com/wiki/The Marriage Registration's Password
+26,850,-,The Marriage Registration's Password (Part 2),18/02/17,https://www.detectiveconanworld.com/wiki/The Marriage Registration's Password
+26,851,-,The Descent Into Hell Tour of Love (Beppu Chapter),04/03/17,https://www.detectiveconanworld.com/wiki/The Descent Into Hell Tour of Love (Beppu Chapter)
+26,852,-,The Descent Into Hell Tour of Love (Oita Chapter),11/03/17,https://www.detectiveconanworld.com/wiki/The Descent Into Hell Tour of Love (Oita Chapter)
+26,853,-,Memories from Sakura Class (Ran GIRL),18/03/17,https://www.detectiveconanworld.com/wiki/Memories from Sakura Class (Ran GIRL)
+26,854,-,Memories from Sakura Class (Shinichi BOY),25/03/17,https://www.detectiveconanworld.com/wiki/Memories from Sakura Class (Shinichi BOY)
+26,855,-,The Mystery of the Vanished Black Belt,15/04/17,https://www.detectiveconanworld.com/wiki/The Mystery of the Vanished Black Belt
+26,856,-,The Secret of the Celebrity Couple,22/04/17,https://www.detectiveconanworld.com/wiki/The Secret of the Celebrity Couple
+27,857,-,The Shifting Mystery of Beika City (Part 1),29/04/17,https://www.detectiveconanworld.com/wiki/The Shifting Mystery of Beika City
+27,858,-,The Shifting Mystery of Beika City (Part 2),06/05/17,https://www.detectiveconanworld.com/wiki/The Shifting Mystery of Beika City
+27,859,-,The Dark Mountain Route,13/05/17,https://www.detectiveconanworld.com/wiki/The Dark Mountain Route
+27,860,-,The Security System's Pitfall,20/05/17,https://www.detectiveconanworld.com/wiki/The Security System's Pitfall
+27,861,-,Just Like a 17 Years Old Crime Scene (Part 1),03/06/17,https://www.detectiveconanworld.com/wiki/Just Like a 17 Years Old Crime Scene
+27,862,-,Just Like a 17 Years Old Crime Scene (Part 2),10/06/17,https://www.detectiveconanworld.com/wiki/Just Like a 17 Years Old Crime Scene
+27,863,-,The Spirit Detective's Murder (Part 1),17/06/17,https://www.detectiveconanworld.com/wiki/The Spirit Detective's Murder
+27,864,-,The Spirit Detective's Murder (Part 2),24/06/17,https://www.detectiveconanworld.com/wiki/The Spirit Detective's Murder
+27,865,-,The Foul-Mouthed Myna Bird,08/07/17,https://www.detectiveconanworld.com/wiki/The Foul-Mouthed Myna Bird
+27,866,-,The Traitor's Stage (Part 1),15/07/17,https://www.detectiveconanworld.com/wiki/The Traitor's Stage
+27,867,-,The Traitor's Stage (Part 2),22/07/17,https://www.detectiveconanworld.com/wiki/The Traitor's Stage
+27,868,-,The Whistling Bookstore,29/07/17,https://www.detectiveconanworld.com/wiki/The Whistling Bookstore
+27,869,-,Conan Disappeared on the Cliff (Part 1),05/08/17,https://www.detectiveconanworld.com/wiki/Conan Disappeared on the Cliff
+27,870,-,Conan Disappeared on the Cliff (Part 2),12/08/17,https://www.detectiveconanworld.com/wiki/Conan Disappeared on the Cliff
+27,871,-,The Nobunaga 450 Case,02/09/17,https://www.detectiveconanworld.com/wiki/The Nobunaga 450 Case
+27,872,-,Conan and Heiji's Nue Legend (Squealing),09/09/17,https://www.detectiveconanworld.com/wiki/Conan and Heiji's Nue Legend (Squealing)
+27,873,-,Conan and Heiji's Nue Legend (Claw),16/09/17,https://www.detectiveconanworld.com/wiki/Conan and Heiji's Nue Legend (Claw)
+27,874,-,Conan and Heiji's Nue Legend (Resolution),23/09/17,https://www.detectiveconanworld.com/wiki/Conan and Heiji's Nue Legend (Resolution)
+27,875,-,The Mysterious Prophetic Buddha,30/09/17,https://www.detectiveconanworld.com/wiki/The Mysterious Prophetic Buddha
+27,876,-,The Mechanical Witness,07/10/17,https://www.detectiveconanworld.com/wiki/The Mechanical Witness
+27,877,-,A Pair of Crossing Fates,14/10/17,https://www.detectiveconanworld.com/wiki/A Pair of Crossing Fates
+27,878,-,The Blind Spot in the Dressing Room (Part 1),28/10/17,https://www.detectiveconanworld.com/wiki/The Blind Spot in the Dressing Room
+27,879,-,The Blind Spot in the Dressing Room (Part 2),04/11/17,https://www.detectiveconanworld.com/wiki/The Blind Spot in the Dressing Room
+27,880,-,The Detective Boys and the Ghost Mansion,11/11/17,https://www.detectiveconanworld.com/wiki/The Detective Boys and the Ghost Mansion
+27,881,-,The Wizard of the Ripples (Part 1),18/11/17,https://www.detectiveconanworld.com/wiki/The Wizard of the Ripples
+27,882,-,The Wizard of the Ripples (Part 2),25/11/17,https://www.detectiveconanworld.com/wiki/The Wizard of the Ripples
+27,883,-,The Pop-up Book Bomber (Part 1),02/12/17,https://www.detectiveconanworld.com/wiki/The Pop-up Book Bomber
+27,884,-,The Pop-up Book Bomber (Part 2),09/12/17,https://www.detectiveconanworld.com/wiki/The Pop-up Book Bomber
+27,885,-,Solving Mysteries at the Poirot Café (Part 1),16/12/17,https://www.detectiveconanworld.com/wiki/Solving Mysteries at the Poirot Café
+27,886,-,Solving Mysteries at the Poirot Café (Part 2),23/12/17,https://www.detectiveconanworld.com/wiki/Solving Mysteries at the Poirot Café
+27,887,-,Kaitou Kid and the Trick Box (Part 1),06/01/18,https://www.detectiveconanworld.com/wiki/Kaitou Kid and the Trick Box
+27,888,-,Kaitou Kid and the Trick Box (Part 2),13/01/18,https://www.detectiveconanworld.com/wiki/Kaitou Kid and the Trick Box
+27,889,-,The New Teacher's Skeleton Case (Part 1),20/01/18,https://www.detectiveconanworld.com/wiki/The New Teacher's Skeleton Case
+27,890,-,The New Teacher's Skeleton Case (Part 2),27/01/18,https://www.detectiveconanworld.com/wiki/The New Teacher's Skeleton Case
+27,891,-,Bakumatsu Revolution Mystery Tour (Part 1),03/02/18,https://www.detectiveconanworld.com/wiki/Bakumatsu Revolution Mystery Tour
+27,892,-,Bakumatsu Revolution Mystery Tour (Part 2),10/02/18,https://www.detectiveconanworld.com/wiki/Bakumatsu Revolution Mystery Tour
+27,893,-,The Mystery of the Michelin Starred Restaurant,24/02/18,https://www.detectiveconanworld.com/wiki/The Mystery of the Michelin Starred Restaurant
+27,894,-,The Tokyo-Style Detective Show Next Door (Part 1),03/03/18,https://www.detectiveconanworld.com/wiki/The Tokyo-Style Detective Show Next Door
+27,895,-,The Tokyo-Style Detective Show Next Door (Part 2),10/03/18,https://www.detectiveconanworld.com/wiki/The Tokyo-Style Detective Show Next Door
+27,896,-,The Woman with White Hands (Part 1),17/03/18,https://www.detectiveconanworld.com/wiki/The Woman with White Hands
+27,897,-,The Woman with White Hands (Part 2),24/03/18,https://www.detectiveconanworld.com/wiki/The Woman with White Hands
+27,898,-,The Melting Cake!,07/04/18,https://www.detectiveconanworld.com/wiki/The Melting Cake!
+27,899,-,The Real Culprit's Scream,28/04/18,https://www.detectiveconanworld.com/wiki/The Real Culprit's Scream
+27,900,-,Solving Mysteries in a Locked Room,05/05/18,https://www.detectiveconanworld.com/wiki/Solving Mysteries in a Locked Room
+27,901,-,Lawyer Kisaki's SOS (Part 1),12/05/18,https://www.detectiveconanworld.com/wiki/Lawyer Kisaki's SOS
+27,902,-,Lawyer Kisaki's SOS (Part 2),19/05/18,https://www.detectiveconanworld.com/wiki/Lawyer Kisaki's SOS
+27,903,-,Birds of a Feather at Loggerheads,26/05/18,https://www.detectiveconanworld.com/wiki/Birds of a Feather at Loggerheads
+27,904,-,Result of the Draw,16/06/18,https://www.detectiveconanworld.com/wiki/Result of the Draw
+27,905,-,Eyewitness Testimony Seven Years Later (Part 1),23/06/18,https://www.detectiveconanworld.com/wiki/Eyewitness Testimony Seven Years Later
+27,906,-,Eyewitness Testimony Seven Years Later (Part 2),30/06/18,https://www.detectiveconanworld.com/wiki/Eyewitness Testimony Seven Years Later
+27,907,-,The J League Bodyguard,14/07/18,https://www.detectiveconanworld.com/wiki/The J League Bodyguard
+27,908,-,Friendship Washed Away in the Riverbed,21/07/18,https://www.detectiveconanworld.com/wiki/Friendship Washed Away in the Riverbed
+27,909,-,Mystery of the Burning Tent (Part 1),28/07/18,https://www.detectiveconanworld.com/wiki/Mystery of the Burning Tent
+27,910,-,Mystery of the Burning Tent (Part 2),04/08/18,https://www.detectiveconanworld.com/wiki/Mystery of the Burning Tent
+27,911,-,The Job Request from Inspector Megure,01/09/18,https://www.detectiveconanworld.com/wiki/The Job Request from Inspector Megure
+27,912,-,The Detective Boys Become Models,08/09/18,https://www.detectiveconanworld.com/wiki/The Detective Boys Become Models
+27,913,-,Conan Kidnapped (Part 1),15/09/18,https://www.detectiveconanworld.com/wiki/Conan Kidnapped
+27,914,-,Conan Kidnapped (Part 2),22/09/18,https://www.detectiveconanworld.com/wiki/Conan Kidnapped
+27,915,-,High School Girl Detective Sonoko Suzuki,29/09/18,https://www.detectiveconanworld.com/wiki/High School Girl Detective Sonoko Suzuki
+27,916,-,The Kendo Tournament of Love and Mystery (Part 1),06/10/18,https://www.detectiveconanworld.com/wiki/The Kendo Tournament of Love and Mystery
+27,917,-,The Kendo Tournament of Love and Mystery (Part 2),13/10/18,https://www.detectiveconanworld.com/wiki/The Kendo Tournament of Love and Mystery
+27,918,-,The Mini Patrol Car Police's Big Chase,27/10/18,https://www.detectiveconanworld.com/wiki/The Mini Patrol Car Police's Big Chase
+27,919,-,The High School Girl Trio's Secret Café (Part 1),03/11/18,https://www.detectiveconanworld.com/wiki/The High School Girl Trio's Secret Café
+27,920,-,The High School Girl Trio's Secret Café (Part 2),10/11/18,https://www.detectiveconanworld.com/wiki/The High School Girl Trio's Secret Café
+27,921,-,The Murderous Carpool,17/11/18,https://www.detectiveconanworld.com/wiki/The Murderous Carpool
+27,922,-,The Disappeared Detective Boys,24/11/18,https://www.detectiveconanworld.com/wiki/The Disappeared Detective Boys
+27,923,-,A Day Without Conan,01/12/18,https://www.detectiveconanworld.com/wiki/A Day Without Conan
+27,924,-,The Sun Sets in Tangerine Fields,08/12/18,https://www.detectiveconanworld.com/wiki/The Sun Sets in Tangerine Fields
+27,925,-,The Heartfelt Strap (Part 1),15/12/18,https://www.detectiveconanworld.com/wiki/The Heartfelt Strap
+27,926,-,The Heartfelt Strap (Part 2),22/12/18,https://www.detectiveconanworld.com/wiki/The Heartfelt Strap
+27,927,-,The Scarlet School Trip (Bright Red Arc) (1 Hour Special),05/01/19,https://www.detectiveconanworld.com/wiki/The Scarlet School Trip (Bright Red Arc) (1 Hour Special)
+27,928,-,The Scarlet School Trip (Red Love Arc) (1 Hour Special),12/01/19,https://www.detectiveconanworld.com/wiki/The Scarlet School Trip (Red Love Arc) (1 Hour Special)
+27,929,-,A Woman Standing by the Window (Part 1),02/02/19,https://www.detectiveconanworld.com/wiki/A Woman Standing by the Window
+27,930,-,A Woman Standing by the Window (Part 2),09/02/19,https://www.detectiveconanworld.com/wiki/A Woman Standing by the Window
+27,931,-,Kitakyushu Light and Seaside Mystery Tour (Part 1),16/02/19,https://www.detectiveconanworld.com/wiki/Kitakyushu Light and Seaside Mystery Tour
+27,932,-,Kitakyushu Light and Seaside Mystery Tour (Part 2),23/02/19,https://www.detectiveconanworld.com/wiki/Kitakyushu Light and Seaside Mystery Tour
